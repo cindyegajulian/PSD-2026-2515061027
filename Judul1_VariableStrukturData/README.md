@@ -18,6 +18,7 @@ Baris ke 14-18 untuk mencoba menerima input dari pengguna lewat variabel choice.
 
 Baris 19 dan 20 jika pengguna pilih 1, program bakal nampilin alamat di memori tempat list disimpan, menggunakan bantuan fungsi id().
 
+Baris 21 dan 23 jika pengguna memilih 2, program akan ngejalanin perulangan for sebanyak 5 kali untuk melakukan pengecekan dan nampilin alamat memori spesifik dari tiap slot (indeks) mahasiswa yang ada di dalam list tersebut.
 
 
 
