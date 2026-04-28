@@ -8,9 +8,12 @@ Program ini menggunakan struktur data array satu dimensi (implementasinya menggu
 
 Baris 1-7 adalah fungsi menu() yang isinya sekumpulan perintah print untuk menampilkan judul program dan pilihan (1-4) ke layar supaya bisa dibaca oleh pengguna.  menu atau perintah yang nantinya akan muncul pada tampilan antarmuka.
 
-<img width="1117" height="794" alt="Screenshot 2026-04-28 124112" src="https://github.com/user-attachments/assets/15797d05-5af2-4aa2-a238-ce284ca8a2cb" />
+<img width="368" height="76" alt="Screenshot 2026-04-28 151619" src="https://github.com/user-attachments/assets/46461475-dbab-4483-ba29-71e228e3cca2" />
+
 
 Baris ke 9-11 membuat fungsi utama (def(main)) sebagai inti program. Lalu membuat list untuk menampung nilai 5 mahasiswa. List ini langsung diisi dengan 5 angka nol. Selanjutnya membuat variabel bernama running yang nilainya adalah true, jadi selama nilainya true, program akan terus berjalan dalam looping.
+
+<img width="248" height="50" alt="Screenshot 2026-04-28 151746" src="https://github.com/user-attachments/assets/744bb5f6-9d52-47e3-b742-1b71b902dab7" />
 
 Baris ke 12 dan 13 memulai perulangan utama, selama nilainya masih true akan terus kembali ke menu awal dan memanggil fungsi menu yang sudah dibuat pada baris ke 1 untuk ditampilkan ke layar.
 
