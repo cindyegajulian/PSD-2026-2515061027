@@ -6,4 +6,21 @@ Program ini menggunakan struktur data array satu dimensi (implementasinya menggu
 ## Source Code
 ### Bagian 1
 Baris 1 adalah fungsi untuk membuat tampilan menu atau perintah yang nantinya akan muncul pada tampilan antarmuka. Baris 2 dibuat untuk mencetak judul menu ke layar. Karakter \n dipakai untuk membuat baris atau spasi agar lebih rapi. Baris ke 3 sampai baris ke 7 akan mencetak daftar pilihan yang dapat dipilih oleh pengguna.
+### Bagian 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
