@@ -69,7 +69,7 @@ Saat program pertama kali dieksekusi, menu utama langsung muncul dengan baik, la
 Ketika opsi 2 dipilih, program menampilkan 5 baris alamat memori yang berbeda untuk masing-masing slot (indeks) nilai mahasiswa.
 
 <img width="625" height="348" alt="Screenshot 2026-04-28 184329" src="https://github.com/user-attachments/assets/34368109-201b-444c-8b1b-f2b533f5d003" />
-333
+Ketika opsi 3 dipilih, program meminta input berupa angka secara berurutan untuk mahasiswa 1 sampai 5. Setelah kelima data terisi, program otomatis mencetak daftar rekapitulasi akhirnya dalam format list.
 
 <img width="636" height="195" alt="Screenshot 2026-04-28 183136" src="https://github.com/user-attachments/assets/9e88620d-ff26-424d-be81-6c5a238e75b7" />
 
