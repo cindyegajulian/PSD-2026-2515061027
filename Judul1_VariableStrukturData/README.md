@@ -30,7 +30,9 @@ Baris ke 33, setelah looping input 5 mahasiswa selesai, baris ini akan menampilk
 
 Baris 34-36 jika user memilih angka 4, variabel penanda running berubah jadi false. Ini otomatis akan menghentikan looping utama while, lalu menampilkan pesan penutup sebelum program benar-benar berhenti.
 
-Baris 37 dan 38
+Baris 37 dan 38 berfungsi untuk memberikan peringatan jika pengguna memasukkan angka selain yang tertera pada pilihan (1-4).
+
+Baris 40 dan 41 untuk memastikan fungsi main() langsung dieksekusi dari awal saat program ini dijalankan.
 
 
 
