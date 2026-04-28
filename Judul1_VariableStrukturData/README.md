@@ -12,9 +12,7 @@ Baris 1-7 adalah fungsi menu() yang isinya sekumpulan perintah print untuk menam
 
 Baris ke 9-11 membuat fungsi utama (def(main)) sebagai inti program. Lalu membuat list untuk menampung nilai 5 mahasiswa. List ini langsung diisi dengan 5 angka nol. Selanjutnya membuat variabel bernama running yang nilainya adalah true, jadi selama nilainya true, program akan terus berjalan dalam looping.
 
-Baris ke 12 memulai perulangan utama, selama nilainya masih true akan terus kembali ke menu awal.
-
-Baris ke 13 memanggil fungsi menu yang sudah dibuat pada baris ke 1 untuk ditampilkan ke layar.
+Baris ke 12 dan 13 memulai perulangan utama, selama nilainya masih true akan terus kembali ke menu awal dan memanggil fungsi menu yang sudah dibuat pada baris ke 1 untuk ditampilkan ke layar.
 
 Baris ke 14 untuk mencoba menerima input dari pengguna sekaligus penanganan error ketika pengguna tidak sesuai saat memasukkan jenis datanya.
 
