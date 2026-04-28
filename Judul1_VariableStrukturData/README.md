@@ -69,11 +69,12 @@ Saat program pertama kali dieksekusi, menu utama langsung muncul dengan baik, la
 Ketika opsi 2 dipilih, program menampilkan 5 baris alamat memori yang berbeda untuk masing-masing slot (indeks) nilai mahasiswa.
 
 <img width="625" height="348" alt="Screenshot 2026-04-28 184329" src="https://github.com/user-attachments/assets/34368109-201b-444c-8b1b-f2b533f5d003" />
+
 Ketika opsi 3 dipilih, program meminta input berupa angka secara berurutan untuk mahasiswa 1 sampai 5. Setelah kelima data terisi, program otomatis mencetak daftar rekapitulasi akhirnya dalam format list.
 
 <img width="636" height="195" alt="Screenshot 2026-04-28 183136" src="https://github.com/user-attachments/assets/9e88620d-ff26-424d-be81-6c5a238e75b7" />
 
-aaaa
+Ketika pengguna memilih "a" (bukan angka) program tidak akan mengalami error, tetapi program akan memberikan peringatan singkat lalu kembali menampilkan menu utama seolah tidak terjadi apa-apa, meminta pengguna untuk memasukkan pilihan lagi dengan benar.
 
 <img width="628" height="183" alt="Screenshot 2026-04-28 183200" src="https://github.com/user-attachments/assets/ce4b4fdb-b347-4d8f-a6c2-331d40dd456d" />
 
