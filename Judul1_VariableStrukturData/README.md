@@ -17,9 +17,17 @@ Baris ke 9-11 membuat fungsi utama (def(main)) sebagai inti program. Lalu membua
 
 Baris ke 12 dan 13 memulai perulangan utama, selama nilainya masih true akan terus kembali ke menu awal dan memanggil fungsi menu yang sudah dibuat pada baris ke 1 untuk ditampilkan ke layar.
 
+
+<img width="522" height="120" alt="Screenshot 2026-04-28 151914" src="https://github.com/user-attachments/assets/c8bfe88e-0948-49f5-8da4-79fc3cd2b5a6" />
+
 Baris ke 14-18 untuk mencoba menerima input dari pengguna lewat variabel choice. Lalu pakai blok try except untuk antisipasi jika pengguna salah memberi masukkan (input). Kalau salah, program akan memberi peringatan dan perintah continue yang membuat program kembali ke menu tanpa mengalami error.
 
+
+<img width="900" height="55" alt="Screenshot 2026-04-28 152024" src="https://github.com/user-attachments/assets/4077b77b-c5ee-41ab-8714-d13697ab8b35" />
+
 Baris 19 dan 20 jika pengguna pilih 1, program bakal nampilin alamat di memori tempat list disimpan, menggunakan bantuan fungsi id().
+
+<img width="1104" height="79" alt="Screenshot 2026-04-28 152103" src="https://github.com/user-attachments/assets/6443f958-a996-4afa-a45f-5382d2ca1ff3" />
 
 Baris 21-23 jika pengguna memilih 2, program akan ngejalanin perulangan for sebanyak 5 kali untuk melakukan pengecekan dan nampilin alamat memori spesifik dari tiap slot (indeks) mahasiswa yang ada di dalam list tersebut.
 
