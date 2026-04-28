@@ -16,7 +16,7 @@ Baris ke 10 adalah program membuat list untuk menampung nilai 5 mahasiswa. List 
 
 Baris ke 11 membuat variabel bernama running yang nilainya adalah true, jadi selama nilainya true, program akan terus berjalan dalam looping.
 
-Baris ke... memulai perulangan utama, selama nilainya masih true akan terus kembali ke menu awal.
+Baris ke 12 memulai perulangan utama, selama nilainya masih true akan terus kembali ke menu awal.
 
 
 
