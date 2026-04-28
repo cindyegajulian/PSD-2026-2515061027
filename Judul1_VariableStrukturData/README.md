@@ -78,7 +78,7 @@ Ketika pengguna memilih "a" (bukan angka) program tidak akan mengalami error, te
 
 <img width="628" height="183" alt="Screenshot 2026-04-28 183200" src="https://github.com/user-attachments/assets/ce4b4fdb-b347-4d8f-a6c2-331d40dd456d" />
 
-4
+Terakhir, pemilihan opsi 4 berhasil menghentikan perulangan menu dan menghentikan program dengan aman.
 
 
 
