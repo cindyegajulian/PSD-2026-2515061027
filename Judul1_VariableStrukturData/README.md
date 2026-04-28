@@ -22,7 +22,9 @@ Baris 21-23 jika pengguna memilih 2, program akan ngejalanin perulangan for seba
 
 Baris 24 dan 25 jika pengguna memilih 3, program akan memberi intruksi awal untuk mulai proses input nilai.
 
-Baris 26-30 program melakukan looping untuk meminta nilai kelima mahasiswa secara berurutan. Di dalamnya terdapat looping kecil while true agar ketika nilai berhasil dimasukkan, perulangan di break dan lanjut ke mahasiswa berikutnya.
+Baris 26-30 program melakukan looping untuk meminta nilai kelima mahasiswa secara berurutan. Di dalamnya terdapat looping while true agar ketika nilai berhasil dimasukkan, perulangan di break dan lanjut ke mahasiswa berikutnya.
+
+Baris 31 dan 32 lanjut dari input tadi. Kalau ternyata pengguna salah masukin huruf (bukan angka), bagian ini akan menangkap error dan memberikan peringatan. Karena ada while true tadi, program akan minta ulang nilai di mahasiswa yang salah, tanpa harus ulang dari mahasiswa pertama.
 
 
 
