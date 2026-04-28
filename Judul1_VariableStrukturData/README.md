@@ -66,7 +66,7 @@ Saat program pertama kali dieksekusi, menu utama langsung muncul dengan baik, la
 
 <img width="627" height="277" alt="Screenshot 2026-04-28 182954" src="https://github.com/user-attachments/assets/f1fd564d-2463-457d-ab22-ef1d44b2a4d5" />
 
-Ketika opsi 2 dipilih, 
+Ketika opsi 2 dipilih, program menampilkan 5 baris alamat memori yang berbeda untuk masing-masing slot (indeks) nilai mahasiswa.
 
 <img width="625" height="348" alt="Screenshot 2026-04-28 184329" src="https://github.com/user-attachments/assets/34368109-201b-444c-8b1b-f2b533f5d003" />
 333
