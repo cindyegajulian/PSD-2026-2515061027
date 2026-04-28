@@ -10,7 +10,6 @@ Baris 1-7 adalah fungsi menu() yang isinya sekumpulan perintah print untuk menam
 
 <img width="368" height="76" alt="Screenshot 2026-04-28 151619" src="https://github.com/user-attachments/assets/46461475-dbab-4483-ba29-71e228e3cca2" />
 
-
 Baris ke 9-11 membuat fungsi utama (def(main)) sebagai inti program. Lalu membuat list untuk menampung nilai 5 mahasiswa. List ini langsung diisi dengan 5 angka nol. Selanjutnya membuat variabel bernama running yang nilainya adalah true, jadi selama nilainya true, program akan terus berjalan dalam looping.
 
 <img width="248" height="50" alt="Screenshot 2026-04-28 151746" src="https://github.com/user-attachments/assets/744bb5f6-9d52-47e3-b742-1b71b902dab7" />
@@ -31,11 +30,19 @@ Baris 19 dan 20 jika pengguna pilih 1, program bakal nampilin alamat di memori t
 
 Baris 21-23 jika pengguna memilih 2, program akan ngejalanin perulangan for sebanyak 5 kali untuk melakukan pengecekan dan nampilin alamat memori spesifik dari tiap slot (indeks) mahasiswa yang ada di dalam list tersebut.
 
+<img width="640" height="49" alt="Screenshot 2026-04-28 152154" src="https://github.com/user-attachments/assets/a1d005ef-d69c-45fc-9f29-3ce97f87440c" />
+
 Baris 24 dan 25 jika pengguna memilih 3, program akan memberi intruksi awal untuk mulai proses input nilai.
+
+<img width="988" height="123" alt="Screenshot 2026-04-28 152244" src="https://github.com/user-attachments/assets/5b057d02-d23c-4262-91f9-3348e209c12e" />
 
 Baris 26-30 program melakukan looping untuk meminta nilai kelima mahasiswa secara berurutan. Di dalamnya terdapat looping while true agar ketika nilai berhasil dimasukkan, perulangan di break dan lanjut ke mahasiswa berikutnya.
 
+<img width="788" height="50" alt="Screenshot 2026-04-28 152347" src="https://github.com/user-attachments/assets/80f0d1f4-45dc-47fc-a1ef-580542dc90f9" />
+
 Baris 31 dan 32 lanjut dari input tadi. Kalau ternyata pengguna salah masukin huruf (bukan angka), bagian ini akan menangkap error dan memberikan peringatan. Karena ada while true tadi, program akan minta ulang nilai di mahasiswa yang salah, tanpa harus ulang dari mahasiswa pertama.
+
+<img width="740" height="28" alt="Screenshot 2026-04-28 152424" src="https://github.com/user-attachments/assets/6f529ece-84a1-4036-9da2-76b70400a990" />
 
 Baris ke 33, setelah looping input 5 mahasiswa selesai, baris ini akan menampilkan bentuk list akhir yang sekarang sudah berisi angka nilai-nilai tersebut
 
