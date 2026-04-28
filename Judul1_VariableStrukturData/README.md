@@ -14,10 +14,7 @@ Baris ke 9-11 membuat fungsi utama (def(main)) sebagai inti program. Lalu membua
 
 Baris ke 12 dan 13 memulai perulangan utama, selama nilainya masih true akan terus kembali ke menu awal dan memanggil fungsi menu yang sudah dibuat pada baris ke 1 untuk ditampilkan ke layar.
 
-Baris ke 14 untuk mencoba menerima input dari pengguna sekaligus penanganan error ketika pengguna tidak sesuai saat memasukkan jenis datanya.
-
-Baris ke 15 untuk menunggu pengguna memasukkan pilihannya
-
+Baris ke 14-18 untuk mencoba menerima input dari pengguna lewat variabel choice. Lalu pakai blok try except untuk antisipasi jika pengguna salah memberi masukkan (input). Kalau salah, program akan memberi peringatan dan perintah continue yang membuat program kembali ke menu tanpa mengalami error. 
 
 
 
