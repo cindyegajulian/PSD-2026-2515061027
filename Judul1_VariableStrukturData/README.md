@@ -6,11 +6,7 @@ Program ini menggunakan struktur data array satu dimensi (implementasinya menggu
 ## Source Code
 <img width="851" height="173" alt="Screenshot 2026-04-28 124013" src="https://github.com/user-attachments/assets/4c17bf36-284a-44ea-97fa-bc1fade6028b" />
 
-Baris 1 adalah fungsi untuk membuat tampilan menu atau perintah yang nantinya akan muncul pada tampilan antarmuka.
-
-Baris 2 dibuat untuk mencetak judul menu ke layar. Karakter \n dipakai untuk membuat baris atau spasi agar lebih rapi.
-
-Baris ke 3 sampai baris ke 7 akan mencetak daftar pilihan yang dapat dipilih oleh pengguna.
+Baris 1-7 adalah fungsi menu() yang isinya sekumpulan perintah print untuk menampilkan judul program dan pilihan (1-4) ke layar supaya bisa dibaca oleh pengguna.  menu atau perintah yang nantinya akan muncul pada tampilan antarmuka.
 
 <img width="1117" height="794" alt="Screenshot 2026-04-28 124112" src="https://github.com/user-attachments/assets/15797d05-5af2-4aa2-a238-ce284ca8a2cb" />
 
