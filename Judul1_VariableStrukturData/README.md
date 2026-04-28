@@ -58,6 +58,28 @@ Baris 37 dan 38 berfungsi untuk memberikan peringatan jika pengguna memasukkan a
 
 Baris 40 dan 41 untuk memastikan fungsi main() langsung dieksekusi dari awal saat program ini dijalankan.
 
+## Output
+
+<img width="634" height="187" alt="Screenshot 2026-04-28 182934" src="https://github.com/user-attachments/assets/34cb1d11-fc58-40e0-be2c-38637d9ce9ec" />
+
+Saat program pertama kali dieksekusi, menu utama langsung muncul dengan baik, lalu ketika opsi 1 dipilih, program berhasil mencetak alamat memori utama dari list penyimpan nilai.
+
+<img width="627" height="277" alt="Screenshot 2026-04-28 182954" src="https://github.com/user-attachments/assets/f1fd564d-2463-457d-ab22-ef1d44b2a4d5" />
+
+Ketika opsi 2 dipilih, 
+
+<img width="625" height="348" alt="Screenshot 2026-04-28 184329" src="https://github.com/user-attachments/assets/34368109-201b-444c-8b1b-f2b533f5d003" />
+333
+
+<img width="636" height="195" alt="Screenshot 2026-04-28 183136" src="https://github.com/user-attachments/assets/9e88620d-ff26-424d-be81-6c5a238e75b7" />
+
+aaaa
+
+<img width="628" height="183" alt="Screenshot 2026-04-28 183200" src="https://github.com/user-attachments/assets/ce4b4fdb-b347-4d8f-a6c2-331d40dd456d" />
+
+4
+
+
 
 
 
