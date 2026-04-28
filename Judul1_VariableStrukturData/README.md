@@ -22,7 +22,13 @@ Baris ke 11 membuat variabel bernama running yang nilainya adalah true, jadi sel
 
 Baris ke 12 memulai perulangan utama, selama nilainya masih true akan terus kembali ke menu awal.
 
-Baris ke 13 memanggil fungsi menu yang sudah dibuat pada baris ke 1
+Baris ke 13 memanggil fungsi menu yang sudah dibuat pada baris ke 1 untuk ditampilkan ke layar.
+
+Baris ke 14 untuk mencoba menerima input dari pengguna sekaligus penanganan error ketika pengguna tidak sesuai saat memasukkan jenis datanya.
+
+Baris ke 15 untuk menunggu pengguna memasukkan pilihannya
+
+
 
 
 
