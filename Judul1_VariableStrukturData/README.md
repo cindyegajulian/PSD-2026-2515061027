@@ -46,9 +46,15 @@ Baris 31 dan 32 lanjut dari input tadi. Kalau ternyata pengguna salah masukin hu
 
 Baris ke 33, setelah looping input 5 mahasiswa selesai, baris ini akan menampilkan bentuk list akhir yang sekarang sudah berisi angka nilai-nilai tersebut
 
+<img width="631" height="76" alt="Screenshot 2026-04-28 152651" src="https://github.com/user-attachments/assets/8d69eee2-8660-423e-869d-5c4a3c4a7e59" />
+
 Baris 34-36 jika user memilih angka 4, variabel penanda running berubah jadi false. Ini otomatis akan menghentikan looping utama while, lalu menampilkan pesan penutup sebelum program benar-benar berhenti.
 
+<img width="473" height="51" alt="Screenshot 2026-04-28 152746" src="https://github.com/user-attachments/assets/fdd2beb8-65e9-4fce-ba2d-bb5596d96ccc" />
+
 Baris 37 dan 38 berfungsi untuk memberikan peringatan jika pengguna memasukkan angka selain yang tertera pada pilihan (1-4).
+
+<img width="325" height="47" alt="image" src="https://github.com/user-attachments/assets/07628094-b321-4a84-9cee-711c225202a0" />
 
 Baris 40 dan 41 untuk memastikan fungsi main() langsung dieksekusi dari awal saat program ini dijalankan.
 
