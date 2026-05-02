@@ -1,2 +1,2 @@
-## Sistem Mengurutkan Stok Barang di Koperasi
-# Deskripsi Singkat
+# Sistem Mengurutkan Stok Barang di Koperasi
+## Deskripsi Singkat
