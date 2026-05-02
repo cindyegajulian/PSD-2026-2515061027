@@ -24,6 +24,8 @@ Baris 18 dan 19 membuat sebuah daftar kosong bernama arr untuk menyimpan semua d
 
 Baris 20 melakukan perulangan untuk meminta data barang baru sebanyak n kali.
 
+Baris 21 meminta untuk menginputkan nama barang, fungsi i + 1 untuk memulai perhitungan dari satu (Nama barang ke-1) karena pada komputer ia akan selalu memulai dari 0 maka dari itu i + 1.
+
 
 
 
