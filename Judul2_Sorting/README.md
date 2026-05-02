@@ -20,6 +20,12 @@ Baris 14 memunculkan teks pertanyaan di layar, lalu mengubah jawaban yang diketi
 
 Baris 15 dan 16 jika ternyata yang diketik bukan angka (misalnya huruf "A"), program menangkap error tersebut di sini. Dan return menampilkan pesan bahwa input salah, lalu return langsung menghentikan program agar tidak error.
 
+Baris 18 dan 19 membuat sebuah daftar kosong bernama arr untuk menyimpan semua data barang nanti. Lalu mencetak tulisan ke layar. 
+
+Baris 20 melakukan perulangan untuk meminta data barang baru sebanyak n kali.
+
+
+
 
 
 
