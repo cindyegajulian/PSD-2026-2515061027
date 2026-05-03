@@ -30,6 +30,14 @@ Baris 22 dan 23 memulai perulangan tanpa henti khusus untuk menanyakan jumlah st
 
 Baris 24 meminta pengguna mengetik jumlah stok berupa angka, dan menyimpannya di variabel nilai.
 
+Baris 25 menambagkan nama barang dan stoknya sekaligus sebagai satu pasangan ke dalam keranjang arr yang tadi kosong.
+
+Baris 26 kalau angkanya berhasil dimasukkan, hentikan paksa perulangan while true ini dan lanjut ke barang berikutnya.
+
+Baris 27 menangkap error jika stok diisi huruf, lalu meminta pengguna mengulang memasukkan angka.
+
+
+
 
 
 
