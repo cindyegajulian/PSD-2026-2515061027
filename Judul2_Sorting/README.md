@@ -26,6 +26,11 @@ Baris 20 melakukan perulangan untuk meminta data barang baru sebanyak n kali.
 
 Baris 21 meminta untuk menginputkan nama barang, fungsi i + 1 untuk memulai perhitungan dari satu (Nama barang ke-1) karena pada komputer ia akan selalu memulai dari 0 maka dari itu i + 1.
 
+Baris 22 dan 23 memulai perulangan tanpa henti khusus untuk menanyakan jumlah stok (sampai pengguna benar-benar mengetik angka). Lalu mencoba menjalankan perintah input stok.
+
+Baris 24 meminta pengguna mengetik jumlah stok berupa angka, dan menyimpannya di variabel nilai.
+
+
 
 
 
