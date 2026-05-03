@@ -36,7 +36,17 @@ Baris 26 kalau angkanya berhasil dimasukkan, hentikan paksa perulangan while tru
 
 Baris 27 menangkap error jika stok diisi huruf, lalu meminta pengguna mengulang memasukkan angka.
 
-Baris 28 
+Baris 28 mencetak teks judul ke layar.
+
+Baris 29 membaca isi arr satu per satu.
+
+Baris 30 menampilkan teks berupa nama barang dan jumlah stoknya ke layar.
+
+Baris 31 mengirim arr ke bagian pengurutan agar datanya di rapikan.
+
+Baris 32 mengulangi proses pencetakan teks seperti sebelumnya, tapi kali ini datanya sudah terurut. 
+
+Baris 34 dan 35 memastikan bahwa program utama ini hanya akan berjalan jika file ini memang sengaja dijalankan secara langsung. Lalu menekan tombol "Start" untuk mulai mengeksekusi semua baris kode yang ada di dalam def main().
 
 
 
