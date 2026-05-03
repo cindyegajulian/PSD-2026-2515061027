@@ -36,6 +36,8 @@ Baris 26 kalau angkanya berhasil dimasukkan, hentikan paksa perulangan while tru
 
 Baris 27 menangkap error jika stok diisi huruf, lalu meminta pengguna mengulang memasukkan angka.
 
+Baris 28 
+
 
 
 
