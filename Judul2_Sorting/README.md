@@ -55,7 +55,7 @@ Baris 26 menambahkan nama barang dan stoknya sekaligus sebagai satu pasangan ke 
 Baris 27 kalau angkanya berhasil dimasukkan, hentikan paksa perulangan while true ini dan lanjut ke barang berikutnya.
 
 <img width="849" height="61" alt="Screenshot 2026-05-04 221054" src="https://github.com/user-attachments/assets/c7c68e1b-38e3-48bd-b581-bae6613a9997" />
-Baris 28 menangkap error jika stok diisi huruf, lalu meminta pengguna mengulang memasukkan angka.
+Baris 28 dan 29 menangkap error jika stok diisi huruf, lalu meminta pengguna mengulang memasukkan angka.
 Baris 29 mencetak teks judul ke layar.
 
 Baris 30 membaca isi arr satu per satu.
