@@ -23,39 +23,43 @@ Pada baris 9 dan 10 yaitu dilakukan pengecekan apakah jumlah stok di posisi kiri
 <img width="215" height="54" alt="Screenshot 2026-05-04 214343" src="https://github.com/user-attachments/assets/fe179879-6081-43c7-be0e-2382996e1152" />
 Baris 12 dan 13 def(main) ibarat tempat dimana program akan mulai jalan dari sini. lalu try, program mencoba menjalankan perintah dibawahnya, disini juga antisipasi kalau nanti ada error.
 
-
+<img width="887" height="34" alt="Screenshot 2026-05-04 214441" src="https://github.com/user-attachments/assets/670baee9-2293-4f58-887b-ccb63aa199eb" />
 Baris 14 memunculkan teks pertanyaan di layar, lalu mengubah jawaban yang diketik menjadi angka bulat (int) dan menyimpannya di huruf n.
 
+<img width="496" height="90" alt="Screenshot 2026-05-04 214543" src="https://github.com/user-attachments/assets/5d83ccd8-6236-4d18-8a65-4bb3cecd7bc0" />
 
 Baris 15 dan 17 jika ternyata yang diketik bukan angka (misalnya huruf "A"), program menangkap error tersebut di sini. Dan return menampilkan pesan bahwa input salah, lalu return langsung menghentikan program agar tidak error.
 
-Baris 18 dan 19 membuat sebuah daftar kosong bernama arr untuk menyimpan semua data barang nanti. Lalu mencetak tulisan ke layar. 
 
-Baris 20 melakukan perulangan untuk meminta data barang baru sebanyak n kali.
 
-Baris 21 meminta untuk menginputkan nama barang, fungsi i + 1 untuk memulai perhitungan dari satu (Nama barang ke-1) karena pada komputer ia akan selalu memulai dari 0 maka dari itu i + 1.
 
-Baris 22 dan 23 memulai perulangan tanpa henti khusus untuk menanyakan jumlah stok (sampai pengguna benar-benar mengetik angka). Lalu mencoba menjalankan perintah input stok.
+Baris 19 dan 20 membuat sebuah daftar kosong bernama arr untuk menyimpan semua data barang nanti. Lalu mencetak tulisan ke layar. 
 
-Baris 24 meminta pengguna mengetik jumlah stok berupa angka, dan menyimpannya di variabel nilai.
+Baris 21 melakukan perulangan untuk meminta data barang baru sebanyak n kali.
 
-Baris 25 menambagkan nama barang dan stoknya sekaligus sebagai satu pasangan ke dalam keranjang arr yang tadi kosong.
+Baris 22 meminta untuk menginputkan nama barang, fungsi i + 1 untuk memulai perhitungan dari satu (Nama barang ke-1) karena pada komputer ia akan selalu memulai dari 0 maka dari itu i + 1.
 
-Baris 26 kalau angkanya berhasil dimasukkan, hentikan paksa perulangan while true ini dan lanjut ke barang berikutnya.
+Baris 23 dan 24 memulai perulangan tanpa henti khusus untuk menanyakan jumlah stok (sampai pengguna benar-benar mengetik angka). Lalu mencoba menjalankan perintah input stok.
 
-Baris 27 menangkap error jika stok diisi huruf, lalu meminta pengguna mengulang memasukkan angka.
+Baris 25 meminta pengguna mengetik jumlah stok berupa angka, dan menyimpannya di variabel nilai.
 
-Baris 28 mencetak teks judul ke layar.
+Baris 26 menambagkan nama barang dan stoknya sekaligus sebagai satu pasangan ke dalam keranjang arr yang tadi kosong.
 
-Baris 29 membaca isi arr satu per satu.
+Baris 27 kalau angkanya berhasil dimasukkan, hentikan paksa perulangan while true ini dan lanjut ke barang berikutnya.
 
-Baris 30 menampilkan teks berupa nama barang dan jumlah stoknya ke layar.
+Baris 28 menangkap error jika stok diisi huruf, lalu meminta pengguna mengulang memasukkan angka.
 
-Baris 31 mengirim arr ke bagian pengurutan agar datanya di rapikan.
+Baris 29 mencetak teks judul ke layar.
 
-Baris 32 mengulangi proses pencetakan teks seperti sebelumnya, tapi kali ini datanya sudah terurut. 
+Baris 30 membaca isi arr satu per satu.
 
-Baris 34 dan 35 memastikan bahwa program utama ini hanya akan berjalan jika file ini memang sengaja dijalankan secara langsung. Lalu menekan tombol "Start" untuk mulai mengeksekusi semua baris kode yang ada di dalam def main().
+Baris 31 menampilkan teks berupa nama barang dan jumlah stoknya ke layar.
+
+Baris 32 mengirim arr ke bagian pengurutan agar datanya di rapikan.
+
+Baris 33 mengulangi proses pencetakan teks seperti sebelumnya, tapi kali ini datanya sudah terurut. 
+
+Baris 35 dan 36 memastikan bahwa program utama ini hanya akan berjalan jika file ini memang sengaja dijalankan secara langsung. Lalu menekan tombol "Start" untuk mulai mengeksekusi semua baris kode yang ada di dalam def main().
 
 
 
