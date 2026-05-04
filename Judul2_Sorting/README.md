@@ -42,9 +42,15 @@ Baris 21 melakukan perulangan untuk meminta data barang baru sebanyak n kali.
 
 Baris 22 meminta untuk menginputkan nama barang, fungsi i + 1 untuk memulai perhitungan dari satu (Nama barang ke-1) karena pada komputer ia akan selalu memulai dari 0 maka dari itu i + 1.
 
+<img width="307" height="67" alt="Screenshot 2026-05-04 220350" src="https://github.com/user-attachments/assets/d11ef0b7-d92f-48b5-adf1-40940245769c" />
+
 Baris 23 dan 24 memulai perulangan tanpa henti khusus untuk menanyakan jumlah stok (sampai pengguna benar-benar mengetik angka). Lalu mencoba menjalankan perintah input stok.
 
+<img width="846" height="35" alt="Screenshot 2026-05-04 220436" src="https://github.com/user-attachments/assets/b2c42d3d-f67d-4334-8406-76dd1365cf3d" />
+
 Baris 25 meminta pengguna mengetik jumlah stok berupa angka, dan menyimpannya di variabel nilai.
+
+<img width="821" height="33" alt="Screenshot 2026-05-04 220525" src="https://github.com/user-attachments/assets/49115236-0854-44b2-8fe0-b3d0c2f4f5c0" />
 
 Baris 26 menambagkan nama barang dan stoknya sekaligus sebagai satu pasangan ke dalam keranjang arr yang tadi kosong.
 
