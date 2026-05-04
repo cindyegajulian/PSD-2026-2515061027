@@ -30,13 +30,15 @@ Baris 14 memunculkan teks pertanyaan di layar, lalu mengubah jawaban yang diketi
 
 Baris 15 dan 17 jika ternyata yang diketik bukan angka (misalnya huruf "A"), program menangkap error tersebut di sini. Dan return menampilkan pesan bahwa input salah, lalu return langsung menghentikan program agar tidak error.
 
-
-
+<img width="472" height="64" alt="Screenshot 2026-05-04 215344" src="https://github.com/user-attachments/assets/c3796f35-d710-49d4-8bb0-4a981f921d7b" />
 
 Baris 19 dan 20 membuat sebuah daftar kosong bernama arr untuk menyimpan semua data barang nanti. Lalu mencetak tulisan ke layar. 
 
+<img width="333" height="42" alt="Screenshot 2026-05-04 215704" src="https://github.com/user-attachments/assets/32fd5a45-cbbd-475c-8145-1c16a1707f9e" />
+
 Baris 21 melakukan perulangan untuk meminta data barang baru sebanyak n kali.
 
+![Uploading Screenshot 2026-05-04 215810.png…]()
 Baris 22 meminta untuk menginputkan nama barang, fungsi i + 1 untuk memulai perhitungan dari satu (Nama barang ke-1) karena pada komputer ia akan selalu memulai dari 0 maka dari itu i + 1.
 
 Baris 23 dan 24 memulai perulangan tanpa henti khusus untuk menanyakan jumlah stok (sampai pengguna benar-benar mengetik angka). Lalu mencoba menjalankan perintah input stok.
