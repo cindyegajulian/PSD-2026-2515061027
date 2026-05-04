@@ -38,7 +38,8 @@ Baris 19 dan 20 membuat sebuah daftar kosong bernama arr untuk menyimpan semua d
 
 Baris 21 melakukan perulangan untuk meminta data barang baru sebanyak n kali.
 
-![Uploading Screenshot 2026-05-04 215810.png…]()
+<img width="706" height="31" alt="Screenshot 2026-05-04 215810" src="https://github.com/user-attachments/assets/107fd98b-3ec6-4196-8e53-96890c3a2874" />
+
 Baris 22 meminta untuk menginputkan nama barang, fungsi i + 1 untuk memulai perhitungan dari satu (Nama barang ke-1) karena pada komputer ia akan selalu memulai dari 0 maka dari itu i + 1.
 
 Baris 23 dan 24 memulai perulangan tanpa henti khusus untuk menanyakan jumlah stok (sampai pengguna benar-benar mengetik angka). Lalu mencoba menjalankan perintah input stok.
