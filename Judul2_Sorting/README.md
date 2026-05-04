@@ -66,7 +66,9 @@ Baris 32 mengirim arr ke bagian pengurutan agar datanya di rapikan.
 
 Baris 33 mengulangi proses pencetakan teks seperti sebelumnya, tapi kali ini datanya sudah terurut. 
 
-Baris 35 dan 36 memastikan bahwa program utama ini hanya akan berjalan jika file ini memang sengaja dijalankan secara langsung. Lalu menekan tombol "Start" untuk mulai mengeksekusi semua baris kode yang ada di dalam def main().
+
+<img width="401" height="62" alt="Screenshot 2026-05-04 221611" src="https://github.com/user-attachments/assets/576b6a41-3451-4d7d-bbe7-61e2c91b2805" />
+Baris 40 dan 41 memastikan bahwa program utama ini hanya akan berjalan jika file ini memang sengaja dijalankan secara langsung. Lalu menekan tombol "Start" untuk mulai mengeksekusi semua baris kode yang ada di dalam def main().
 
 
 
