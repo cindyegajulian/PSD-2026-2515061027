@@ -50,7 +50,11 @@ Baris 25 meminta pengguna mengetik jumlah stok berupa angka, dan menyimpannya di
 
 <img width="821" height="33" alt="Screenshot 2026-05-04 220525" src="https://github.com/user-attachments/assets/49115236-0854-44b2-8fe0-b3d0c2f4f5c0" />
 Baris 26 menambahkan nama barang dan stoknya sekaligus sebagai satu pasangan ke dalam keranjang arr yang tadi kosong.
+
+<img width="338" height="28" alt="Screenshot 2026-05-04 220745" src="https://github.com/user-attachments/assets/5caedddc-4e2d-4938-8306-0197ea1905b5" />
 Baris 27 kalau angkanya berhasil dimasukkan, hentikan paksa perulangan while true ini dan lanjut ke barang berikutnya.
+
+<img width="849" height="61" alt="Screenshot 2026-05-04 221054" src="https://github.com/user-attachments/assets/c7c68e1b-38e3-48bd-b581-bae6613a9997" />
 Baris 28 menangkap error jika stok diisi huruf, lalu meminta pengguna mengulang memasukkan angka.
 Baris 29 mencetak teks judul ke layar.
 
