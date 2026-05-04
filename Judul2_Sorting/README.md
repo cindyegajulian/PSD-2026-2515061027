@@ -80,6 +80,11 @@ Baris 41 dan 42 memastikan bahwa program utama ini hanya akan berjalan jika file
 <img width="337" height="177" alt="Screenshot 2026-05-04 213648" src="https://github.com/user-attachments/assets/5e8f4bc8-b894-4481-bcbd-1da037e2ee67" />
 
 
+<img width="519" height="165" alt="Screenshot 2026-05-04 213655" src="https://github.com/user-attachments/assets/68206b94-7395-4b4b-92c2-c35fbd0cf49c" />
+
+
+
+
 
 
 
