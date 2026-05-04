@@ -56,11 +56,14 @@ Baris 27 kalau angkanya berhasil dimasukkan, hentikan paksa perulangan while tru
 
 <img width="849" height="61" alt="Screenshot 2026-05-04 221054" src="https://github.com/user-attachments/assets/c7c68e1b-38e3-48bd-b581-bae6613a9997" />
 Baris 28 dan 29 menangkap error jika stok diisi huruf, lalu meminta pengguna mengulang memasukkan angka.
-Baris 29 mencetak teks judul ke layar.
 
-Baris 30 membaca isi arr satu per satu.
+Baris 30 mencetak teks judul ke layar.
 
-Baris 31 menampilkan teks berupa nama barang dan jumlah stoknya ke layar.
+<img width="752" height="94" alt="Screenshot 2026-05-04 221913" src="https://github.com/user-attachments/assets/05cb676a-9b2d-40dc-8def-c87e3dd90520" />
+
+Baris 31 membaca isi arr satu per satu.
+
+Baris 32 menampilkan teks berupa nama barang dan jumlah stoknya ke layar.
 
 Baris 32 mengirim arr ke bagian pengurutan agar datanya di rapikan.
 
