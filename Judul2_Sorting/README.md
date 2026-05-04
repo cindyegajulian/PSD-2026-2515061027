@@ -20,11 +20,14 @@ Baris ke 8 yaitu melakukan perulangan kedua, disini akan mengecek sisa barang la
 
 Pada baris 9 dan 10 yaitu dilakukan pengecekan apakah jumlah stok di posisi kiri (i) lebih besar dari stok di posisi kanan (j). Jika iya, akan di tukar agar barang yang stoknya sisa sedikit berpindah ke sebelah kiri.
 
+<img width="215" height="54" alt="Screenshot 2026-05-04 214343" src="https://github.com/user-attachments/assets/fe179879-6081-43c7-be0e-2382996e1152" />
 Baris 12 dan 13 def(main) ibarat tempat dimana program akan mulai jalan dari sini. lalu try, program mencoba menjalankan perintah dibawahnya, disini juga antisipasi kalau nanti ada error.
+
 
 Baris 14 memunculkan teks pertanyaan di layar, lalu mengubah jawaban yang diketik menjadi angka bulat (int) dan menyimpannya di huruf n.
 
-Baris 15 dan 16 jika ternyata yang diketik bukan angka (misalnya huruf "A"), program menangkap error tersebut di sini. Dan return menampilkan pesan bahwa input salah, lalu return langsung menghentikan program agar tidak error.
+
+Baris 15 dan 17 jika ternyata yang diketik bukan angka (misalnya huruf "A"), program menangkap error tersebut di sini. Dan return menampilkan pesan bahwa input salah, lalu return langsung menghentikan program agar tidak error.
 
 Baris 18 dan 19 membuat sebuah daftar kosong bernama arr untuk menyimpan semua data barang nanti. Lalu mencetak tulisan ke layar. 
 
