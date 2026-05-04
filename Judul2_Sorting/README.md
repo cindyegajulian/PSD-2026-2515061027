@@ -60,9 +60,7 @@ Baris 28 dan 29 menangkap error jika stok diisi huruf, lalu meminta pengguna men
 
 
 <img width="752" height="94" alt="Screenshot 2026-05-04 221913" src="https://github.com/user-attachments/assets/05cb676a-9b2d-40dc-8def-c87e3dd90520" />
-Baris 30 mencetak teks judul ke layar.
-Baris 31 membaca isi arr satu per satu.
-Baris 32 menampilkan teks berupa nama barang dan jumlah stoknya ke layar.
+Baris 30-32 mencetak teks judul ke layar, membaca isi arr satu per satu dan menampilkan teks berupa nama barang dan jumlah stoknya ke layar.
 
 <img width="774" height="149" alt="Screenshot 2026-05-04 223316" src="https://github.com/user-attachments/assets/00147b6d-f798-4d16-9d0a-5f33e5e6acd1" />
 
@@ -87,7 +85,8 @@ Output data sudah terurut
 <img width="508" height="67" alt="Screenshot 2026-05-04 213702" src="https://github.com/user-attachments/assets/bde57c4b-9a42-44a2-bb06-c441c76a102c" />
 Output ketikan user menginputkan selain angka.
 
-
+## Link Youtube
+https://youtu.be/43A9UklWQ8c
 
 
 
