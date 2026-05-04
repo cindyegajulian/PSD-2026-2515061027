@@ -71,7 +71,14 @@ Baris 33 mengulangi proses pencetakan teks seperti sebelumnya, tapi kali ini dat
 
 
 <img width="401" height="62" alt="Screenshot 2026-05-04 221611" src="https://github.com/user-attachments/assets/576b6a41-3451-4d7d-bbe7-61e2c91b2805" />
-Baris 40 dan 41 memastikan bahwa program utama ini hanya akan berjalan jika file ini memang sengaja dijalankan secara langsung. Lalu menekan tombol "Start" untuk mulai mengeksekusi semua baris kode yang ada di dalam def main().
+Baris 41 dan 42 memastikan bahwa program utama ini hanya akan berjalan jika file ini memang sengaja dijalankan secara langsung. Lalu menekan tombol "Start" untuk mulai mengeksekusi semua baris kode yang ada di dalam def main().
+
+## Output
+<img width="510" height="363" alt="Screenshot 2026-05-04 213640" src="https://github.com/user-attachments/assets/e26719b2-e838-45b2-8743-84ef7d4f9446" />
+
+
+<img width="337" height="177" alt="Screenshot 2026-05-04 213648" src="https://github.com/user-attachments/assets/5e8f4bc8-b894-4481-bcbd-1da037e2ee67" />
+
 
 
 
