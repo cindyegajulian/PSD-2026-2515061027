@@ -65,7 +65,10 @@ Baris 31 membaca isi arr satu per satu.
 
 Baris 32 menampilkan teks berupa nama barang dan jumlah stoknya ke layar.
 
+<img width="774" height="149" alt="Screenshot 2026-05-04 223316" src="https://github.com/user-attachments/assets/00147b6d-f798-4d16-9d0a-5f33e5e6acd1" />
+
 Baris 32 mengirim arr ke bagian pengurutan agar datanya di rapikan.
+
 
 Baris 33 mengulangi proses pencetakan teks seperti sebelumnya, tapi kali ini datanya sudah terurut. 
 
