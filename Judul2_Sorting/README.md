@@ -75,12 +75,19 @@ Baris 41 dan 42 memastikan bahwa program utama ini hanya akan berjalan jika file
 
 ## Output
 <img width="510" height="363" alt="Screenshot 2026-05-04 213640" src="https://github.com/user-attachments/assets/e26719b2-e838-45b2-8743-84ef7d4f9446" />
+Output data awal
 
 
 <img width="337" height="177" alt="Screenshot 2026-05-04 213648" src="https://github.com/user-attachments/assets/5e8f4bc8-b894-4481-bcbd-1da037e2ee67" />
+Output data belum terurut 
 
 
 <img width="519" height="165" alt="Screenshot 2026-05-04 213655" src="https://github.com/user-attachments/assets/68206b94-7395-4b4b-92c2-c35fbd0cf49c" />
+Output data sudah terurut
+
+<img width="508" height="67" alt="Screenshot 2026-05-04 213702" src="https://github.com/user-attachments/assets/bde57c4b-9a42-44a2-bb06-c441c76a102c" />
+Output ketikan user menginputkan selain angka.
+
 
 
 
