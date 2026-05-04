@@ -4,13 +4,19 @@ Program ini adalah aplikasi sederhana berbasis teks yang berfungsi untuk mencata
 
 Dalam penyelesaiannya, program ini mengimplementasikan algoritma pengurutan exchange sort untuk memproses pertukaran posisi data. Sementara itu, struktur data yang diterapkan adalah array satu dimensi (implementasinya menggunakan list) yang di dalamnya menampung objek dictionary agar pasangan data antara nama barang dan jumlah stoknya dapat tersimpan secara rapi dalam satu kesatuan.
 
+## Source Code
+
+<img width="347" height="156" alt="Screenshot 2026-05-04 212913" src="https://github.com/user-attachments/assets/5ccfdb6c-d286-4a53-9637-521f4c1fec6d" />
+
 Baris 1-4, membuat fungsi bernama tukar, pada baris kedua (temp = arr[i]) menyalin barang dari posisi i ke sebuah tempat bernama temp. Baris ketiga mengisi posisi i dengan barang dari posisi j. Baris keempat mengambil barang yang tadi diletakkan di temp, lalu menaruhnya di posisi j.
 
+<img width="452" height="86" alt="Screenshot 2026-05-04 213254" src="https://github.com/user-attachments/assets/d7edfcda-2d07-4b2f-a1e8-ab965d409fb4" />
+
 Baris 6 membuat fungsi utama untuk mengurutkan barang, tempat dimana program akan berjalan untuk menyelesaikan studi kasus ini, dengan arr (daftar barang) dan n (jumlah total barang).
-
 Baris 7 yaitu melakukan perulangan, kenapa n - 1? karena yang akan dibandingkan tidak semua elemen maka dari itu n - 1, jika elemen sudah terurut otomatis elemen paling akhir adalah elemen terbesar jadi tidak perlu di bandingkan lagi.
-
 Baris ke 8 yaitu melakukan perulangan kedua, disini akan mengecek sisa barang lain yang ada di sebelah kanan dari posisi i. Maka dari itu dia i + 1.
+
+<img width="641" height="62" alt="Screenshot 2026-05-04 213416" src="https://github.com/user-attachments/assets/d5662ab1-39f4-42b1-810e-ede74fe89e87" />
 
 Pada baris 9 dan 10 yaitu dilakukan pengecekan apakah jumlah stok di posisi kiri (i) lebih besar dari stok di posisi kanan (j). Jika iya, akan di tukar agar barang yang stoknya sisa sedikit berpindah ke sebelah kiri.
 
