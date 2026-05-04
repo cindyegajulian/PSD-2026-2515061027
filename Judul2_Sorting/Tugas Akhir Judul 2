@@ -1,0 +1,42 @@
+def tukar(arr, i, j):
+    temp = arr[i]
+    arr[i] = arr[j]
+    arr[j] = temp
+
+def exchange_sort(arr, n):
+    for i in range(n - 1):
+        for j in range(i + 1, n):
+            if arr[i]['stok'] > arr[j]['stok']:
+                tukar(arr, i, j)
+
+def main():
+    try:
+        n = int(input("Masukkan jumlah jenis barang di koperasi: "))
+    except ValueError:
+        print("Input tidak valid!")
+        return
+
+    arr = []
+    print("Masukkan data barang:")
+    for i in range(n):
+        nama_barang = input(f"Nama barang ke-{i+1}: ")
+        while True:
+            try:
+                nilai = int(input(f"Jumlah stok {nama_barang}: "))
+                arr.append({'nama': nama_barang, 'stok': nilai})
+                break
+            except ValueError:
+                print("Input tidak valid, silakan masukkan angka!")
+
+    print("\nData stok sebelum diurutkan:")
+    for barang in arr:
+        print(f"- {barang['nama']}: {barang['stok']} pcs")
+
+    exchange_sort(arr, n)
+
+    print("\nData stok setelah diurutkan (Exchange Sort):")
+    for barang in arr:
+        print(f"- {barang['nama']}: {barang['stok']} pcs")
+
+if __name__ == "__main__":
+    main()
