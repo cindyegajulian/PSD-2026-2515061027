@@ -49,6 +49,8 @@ Baris 18 menangkap error jika pengguna memasukkan huruf atau simbol selain angka
 
 Baris 19 menampilkan pesan peringatan untuk pengguna agar memberikan input yang benar. Lalu akan kembali ke perulangan untuk meminta input ulang.
 
+<img width="639" height="33" alt="Screenshot 2026-05-09 233626" src="https://github.com/user-attachments/assets/62bd9ca3-e776-4d7f-a3d3-c43c2e1325a0" />
+Memanggil fungsi sequential search lalu jumlah mahasiswa yang berhasil dihitung disimpan ke variabel counter.
 
 
 
