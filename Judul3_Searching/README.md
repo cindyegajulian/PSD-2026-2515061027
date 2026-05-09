@@ -50,8 +50,17 @@ Baris 18 menangkap error jika pengguna memasukkan huruf atau simbol selain angka
 Baris 19 menampilkan pesan peringatan untuk pengguna agar memberikan input yang benar. Lalu akan kembali ke perulangan untuk meminta input ulang.
 
 <img width="639" height="33" alt="Screenshot 2026-05-09 233626" src="https://github.com/user-attachments/assets/62bd9ca3-e776-4d7f-a3d3-c43c2e1325a0" />
-Memanggil fungsi sequential search lalu jumlah mahasiswa yang berhasil dihitung disimpan ke variabel counter.
+Baris 21 memanggil fungsi sequential search lalu jumlah mahasiswa yang berhasil dihitung disimpan ke variabel counter.
 
+<img width="1274" height="119" alt="Screenshot 2026-05-09 234251" src="https://github.com/user-attachments/assets/4e44079c-63df-468e-ac40-5bad99a78c74" />
+
+Baris 23 memeriksa apakah counter lebih besar dari 0 yang artinya ada mahasiswa yang lulus KKM.
+
+Baris 24 jika ada yang lulus, program memberitahukan ke pengguna total mahasiswa yang lulus atau memenuhi batas KKM. 
+
+Baris 25 jika kondisi tidak terpenuhi atau counter tepat 0. 
+
+Baris 26 menampilkan pemberitahuan ke pengguna bahwa tidak  ada satupun mahasiswa yang lulus KKM. 
 
 
 
