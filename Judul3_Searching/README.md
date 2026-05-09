@@ -23,6 +23,11 @@ Baris 7 nilai indeks i akan terus ditambah 1 sampai akhir putaran agar program t
 
 Baris 8 akan mengembalikan hasil akhir dari perhitungan yang tersimpan di dalam variabel counter ke tempat fungsi ini dipanggil nantinya.
 
+<img width="202" height="36" alt="Screenshot 2026-05-09 231437" src="https://github.com/user-attachments/assets/0ca91b81-369d-449d-96df-b6bb17583d71" />
+
+Baris 10 membuat fungsi utama bernama main(). Disini alur program berjalan dari awal sampai menampilkan hasil akhir.
+
+
 
 
 
