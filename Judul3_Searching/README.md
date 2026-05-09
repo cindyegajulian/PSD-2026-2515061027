@@ -64,7 +64,11 @@ Baris 26 menampilkan pemberitahuan ke pengguna bahwa tidak  ada satupun mahasisw
 
 <img width="384" height="68" alt="Screenshot 2026-05-09 235448" src="https://github.com/user-attachments/assets/2163f11b-d708-4285-be0a-902bfa7d13be" />
 
-Baris 28 
+Baris 28 memastikan bahwa program utama ini hanya akan berjalan jika sengaja dijalankan secara langsung. 
+
+Baris 29 memanggil fungsi main untuk mengeksekusi seluruh program, dari awal sampai akhir.
+
+## Output
 
 
 
