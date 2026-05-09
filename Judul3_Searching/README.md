@@ -62,6 +62,10 @@ Baris 25 jika kondisi tidak terpenuhi atau counter tepat 0.
 
 Baris 26 menampilkan pemberitahuan ke pengguna bahwa tidak  ada satupun mahasiswa yang lulus KKM. 
 
+<img width="384" height="68" alt="Screenshot 2026-05-09 235448" src="https://github.com/user-attachments/assets/2163f11b-d708-4285-be0a-902bfa7d13be" />
+
+Baris 28 
+
 
 
 
