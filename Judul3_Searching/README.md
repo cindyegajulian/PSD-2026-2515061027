@@ -27,6 +27,30 @@ Baris 8 akan mengembalikan hasil akhir dari perhitungan yang tersimpan di dalam 
 
 Baris 10 membuat fungsi utama bernama main(). Disini alur program berjalan dari awal sampai menampilkan hasil akhir.
 
+<img width="891" height="87" alt="Screenshot 2026-05-09 232154" src="https://github.com/user-attachments/assets/f1d5b152-1ed6-4e27-8b04-53b0ea1b81e5" />
+
+Baris 11 menyimpan daftar nilai ke list data.
+
+Baris 12 menghitung otomatis berapa banyak elemen yang ada di list data.
+
+Baris 13 menampilkan isi dari data ke layar.
+
+<img width="1037" height="182" alt="Screenshot 2026-05-09 232616" src="https://github.com/user-attachments/assets/08057515-d786-47a2-baab-eabeac2fcc7f" />
+
+Baris 14, perulangan yang fungsinya untuk meminta pengguna agar memberikan inpur berupa angka.
+
+Baris 15 program mencoba menjalankan perintah yang akan memungkinkan mengalami error (seperti ketika diminta input angka tetapi yang diinputkan huruf).
+
+Baris 16 menampilkan teks untuk meminta pengguna mengiputkan batas nilai KKM dan menyimpannya ke variabel target.
+
+Baris 17 untuk keluar dari perulangan ketika pengguna menginputkan sesuai yang diminta yaitu angka.
+
+Baris 18 menangkap error jika pengguna memasukkan huruf atau simbol selain angka.
+
+Baris 19 menampilkan pesan peringatan untuk pengguna agar memberikan input yang benar. Lalu akan kembali ke perulangan untuk meminta input ulang.
+
+
+
 
 
 
