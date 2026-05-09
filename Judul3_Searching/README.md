@@ -70,9 +70,16 @@ Baris 29 memanggil fungsi main untuk mengeksekusi seluruh program, dari awal sam
 
 ## Output
 
-<img width="927" height="89" alt="Screenshot 2026-05-10 001211" src="https://github.com/user-attachments/assets/e4473310-4cba-49cd-bd16-690167bc8923" />
+<img width="919" height="85" alt="Screenshot 2026-05-10 002842" src="https://github.com/user-attachments/assets/50525675-69c5-4902-9de1-d4f218d73ced" />
 
 Ketika program dijalankan mula-mula akan menampilkan data nilai untuk di neritahukan ke pengguna, lalu meminta pengguna untuk menginputkan batas nya atau KKM nya. Baru setelah itu program melakukan pencarian ada berapa nilai yang lebih dan sama dengan KKM.
+
+<img width="918" height="77" alt="Screenshot 2026-05-10 001247" src="https://github.com/user-attachments/assets/50688788-9483-4344-80e3-8d7f7e9bbe7a" />
+
+Awalnya sama, menampilkan data lalu meminta pengguna menginputkan KKM nya, lalu karena tidak ada nilai diatas atau sama dengan 90 maka program akan memberitahu bahwa tidak ada mahasiswa yang mencapai KKM.
+
+## Link Youtube
+
 
 
 
