@@ -70,6 +70,10 @@ Baris 29 memanggil fungsi main untuk mengeksekusi seluruh program, dari awal sam
 
 ## Output
 
+<img width="927" height="89" alt="Screenshot 2026-05-10 001211" src="https://github.com/user-attachments/assets/e4473310-4cba-49cd-bd16-690167bc8923" />
+
+
+
 
 
 
