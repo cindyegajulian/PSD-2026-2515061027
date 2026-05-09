@@ -13,4 +13,18 @@ Baris 2 ada variabel i dengan nilai 0. Berfungsi sebagai indeks karena pada pyth
 
 Baris 3 ada variabel counter dengan nilai awal 0. Berfungsi untuk menghitung jumlah nilai mahasiswa yang memenuhi syarat KKM.
 
-Baris 4 melakukan perulangan
+Baris 4 melakukan perulangan. Program akan terus melakukan perulangan selama nilai indeks masih kurang dari total panjang data. Ini memastikan semua nilai dari awal hingga akhir diperiksa tanpa ada yang terlewat.
+
+Baris 5 program akan memeriksa apakah nilai mahasiswa pada urutan ke-i lebih besar atau sama dengan nilai target (KKM).
+
+Baris 6 jika pengecekan pada baris 5 bernilai benar maka angka pada variabel counter akan ditambah 1.
+
+Baris 7 nilai indeks i akan terus ditambah 1 sampai akhir putaran agar program terus bergeser maju untuk memeriksa nilai mahasiswa di urutan selanjutnya.
+
+Baris 8 akan mengembalikan hasil akhir dari perhitungan yang tersimpan di dalam variabel counter ke tempat fungsi ini dipanggil nantinya.
+
+
+
+
+
+
