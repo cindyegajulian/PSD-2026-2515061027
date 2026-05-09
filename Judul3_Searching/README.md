@@ -52,7 +52,7 @@ Baris 19 menampilkan pesan peringatan untuk pengguna agar memberikan input yang 
 <img width="639" height="33" alt="Screenshot 2026-05-09 233626" src="https://github.com/user-attachments/assets/62bd9ca3-e776-4d7f-a3d3-c43c2e1325a0" />
 Baris 21 memanggil fungsi sequential search lalu jumlah mahasiswa yang berhasil dihitung disimpan ke variabel counter.
 
-<img width="1274" height="119" alt="Screenshot 2026-05-09 234251" src="https://github.com/user-attachments/assets/4e44079c-63df-468e-ac40-5bad99a78c74" />
+<img width="1315" height="117" alt="Screenshot 2026-05-10 002604" src="https://github.com/user-attachments/assets/4275662d-4331-4c67-b4a9-add955c8e1d4" />
 
 Baris 23 memeriksa apakah counter lebih besar dari 0 yang artinya ada mahasiswa yang lulus KKM.
 
@@ -72,6 +72,7 @@ Baris 29 memanggil fungsi main untuk mengeksekusi seluruh program, dari awal sam
 
 <img width="927" height="89" alt="Screenshot 2026-05-10 001211" src="https://github.com/user-attachments/assets/e4473310-4cba-49cd-bd16-690167bc8923" />
 
+Ketika program dijalankan mula-mula akan menampilkan data nilai untuk di neritahukan ke pengguna, lalu meminta pengguna untuk menginputkan batas nya atau KKM nya. Baru setelah itu program melakukan pencarian ada berapa nilai yang lebih dan sama dengan KKM.
 
 
 
