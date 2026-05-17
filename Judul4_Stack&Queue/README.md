@@ -89,8 +89,25 @@ Baris 33 memberitaukan siapa tamu yang dipanggil.
 
 Baris 34 & 35 jika tamu yang dipanggil adalah satu-satunya tamu, setelah keluar  antrian jadi kosong, maka akan mereset keduanya ke -1.
 
+<img width="795" height="60" alt="Screenshot 2026-05-17 112656" src="https://github.com/user-attachments/assets/28fcb3aa-4e04-4b3b-8901-848996658d8e" />
 
+Baris 36 & 37 jika masih ada tamu lain, geser (front_idx) satu slot ke depan secara circular.
 
+<img width="301" height="33" alt="Screenshot 2026-05-17 113208" src="https://github.com/user-attachments/assets/603bc6f1-9818-4887-9f23-38ee295b19f3" />
+
+Baris 39 fungsi untuk melihat tamu paling depan tanpa memanggilnya atau mengeluarkannya.
+
+<img width="509" height="93" alt="Screenshot 2026-05-17 113246" src="https://github.com/user-attachments/assets/ff4fd1a8-faff-4446-8575-86fa8313cfc1" />
+
+Baris 40-42 jika antrian kosong, program akan menampilan pesan lalu return. 
+
+<img width="476" height="37" alt="Screenshot 2026-05-17 113324" src="https://github.com/user-attachments/assets/fb516983-cfb7-4af6-8326-73731dba2eac" />
+
+Baris 43 mengambil data tamu di posisi paling depan.
+
+<img width="977" height="37" alt="Screenshot 2026-05-17 113350" src="https://github.com/user-attachments/assets/a54ccfb7-3273-49ef-947e-ec2fea6b3cd2" />
+
+Baris 44 menampilkan informasi tamu terdepan atau tamu berikutnya dengan nomor antrian, nama,  dan jumlah orang.
 
 
 
