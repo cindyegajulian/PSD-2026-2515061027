@@ -77,9 +77,15 @@ Baris 28 fungsi untuk memanggil atau mengeluarkan tamu paling depan (yang duluan
 
 Baris 29-31 jika antrian kosong, program akan berhenti (return) dan menampilkan pesan "Antrian kosong! Tidak ada tamu yang menunggu".
 
+<img width="475" height="30" alt="Screenshot 2026-05-17 105617" src="https://github.com/user-attachments/assets/1c035ebd-f03d-4844-9351-c76c42e30160" />
+
 Baris 32 mengambil data tamu diposisi paling depan .
 
+<img width="976" height="38" alt="Screenshot 2026-05-17 105657" src="https://github.com/user-attachments/assets/c6b31baf-4832-4664-9aa4-99b07b58d751" />
+
 Baris 33 memberitaukan siapa tamu yang dipanggil. 
+
+<img width="625" height="60" alt="Screenshot 2026-05-17 105724" src="https://github.com/user-attachments/assets/ff92856f-6891-415c-a659-3a2d86501356" />
 
 Baris 34 & 35 jika tamu yang dipanggil adalah satu-satunya tamu, setelah keluar  antrian jadi kosong, maka akan mereset keduanya ke -1.
 
