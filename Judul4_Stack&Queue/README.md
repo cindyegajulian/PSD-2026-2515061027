@@ -39,13 +39,22 @@ Baris 12 & 13 untuk memeriksa  antrian apakah penuh atau tidak. Pakai % MAXN kar
 
 <img width="496" height="38" alt="Screenshot 2026-05-17 095504" src="https://github.com/user-attachments/assets/678e5ede-8c3f-4863-b913-3ca4af51b313" />
 
-<img width="490" height="34" alt="Screenshot 2026-05-17 100241" src="https://github.com/user-attachments/assets/d8577679-6d7d-4102-a91b-0ada0636b281" />
-
 Baris 15 membuat fungsi untuk menambahkan tamu baru ke antrian, menerima parameter nama dan jumlah.
 
 <img width="868" height="92" alt="Screenshot 2026-05-17 100107" src="https://github.com/user-attachments/assets/d2dde8be-ad66-4922-9049-6067ecb88ef8" />
 
 Baris 16-18 ketika array penuh dengan kapasitas 10 yang sudah dijelaskan diawal, program akan memberi tau dan akan berhenti (return).
+
+<img width="375" height="32" alt="Screenshot 2026-05-17 100904" src="https://github.com/user-attachments/assets/f5d9d3bd-2aa0-47ef-a194-0e7b6a3a2626" />
+
+Baris 19 untuk menaikkan counter yang digunakan untuk menambah nomor antrian baru. 
+
+<img width="1006" height="33" alt="Screenshot 2026-05-17 101307" src="https://github.com/user-attachments/assets/8bd1e542-045d-4f1f-a740-3fa76f2e1f2c" />
+
+Baris 20 membuat data tamu dengan dictionary. Formatnya A01, A02 dan seterusnya (A untuk antrian, 02d untuk minimal angka yaitu 2 digit, misal 1 jadi 01). 
+
+
+
 
 
 
