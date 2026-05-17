@@ -53,6 +53,9 @@ Baris 19 untuk menaikkan counter yang digunakan untuk menambah nomor antrian bar
 
 Baris 20 membuat data tamu dengan dictionary. Formatnya A01, A02 dan seterusnya (A untuk antrian, 02d untuk minimal angka yaitu 2 digit, misal 1 jadi 01). 
 
+<img width="609" height="61" alt="Screenshot 2026-05-17 101541" src="https://github.com/user-attachments/assets/4f62cf07-20f3-46d8-a913-7e0df9faa130" />
+
+
 
 
 
