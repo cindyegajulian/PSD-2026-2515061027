@@ -23,7 +23,16 @@ Baris 4 membuat array sepanjang MAXN yang isinya kosong semua, atau None. Ini ak
 
 <img width="381" height="61" alt="Screenshot 2026-05-17 092933" src="https://github.com/user-attachments/assets/0d5d8f9a-f37d-437b-bf93-8f1218a806ef" />
 
-Baris 5 & 6 Penanda posisi, front untuk depan, dan rear untuk belakang antrian. Nilai -1 maksudnya antrian masih kosong.
+Baris 5 & 6 Penanda posisi, front untuk depan, dan rear untuk belakang antrian. Nilai -1 maksudnya antrian masih kosong. Karena indeks array dimulai dari 0, maka dari itu untuk front dan rearnya adalah -1 karena jika 0 maka antrian sudah terisi diposisi pertama.
+
+<img width="346" height="30" alt="Screenshot 2026-05-17 094824" src="https://github.com/user-attachments/assets/b61d2732-5e49-4aea-ade8-71b2c4b3b9ee" />
+
+Baris 7 untuk menghitung nomor antrian secara otomatis. Jadi akan naik setiap ada tamu baru (1, 2, 3....).
+
+<img width="513" height="67" alt="Screenshot 2026-05-17 095058" src="https://github.com/user-attachments/assets/0bfadaff-426e-480c-8f9a-9f98b37a5f0c" />
+
+Baris 9 & 10 fungsi untuk memeriksa antrian kosong atau tidak. Ketika front_idx masih -1, berarti belum ada tamu, lalu return true.
+
 
 
 
