@@ -110,4 +110,9 @@ Baris 43 mengambil data tamu di posisi paling depan.
 Baris 44 menampilkan informasi tamu terdepan atau tamu berikutnya dengan nomor antrian, nama,  dan jumlah orang.
 
 
+Baris 46  fungsi untuk menampilkan seluruh isi antrian
+
+
+
+
 
