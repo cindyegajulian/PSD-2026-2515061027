@@ -39,8 +39,13 @@ Baris 12 & 13 untuk memeriksa  antrian apakah penuh atau tidak. Pakai % MAXN kar
 
 <img width="496" height="38" alt="Screenshot 2026-05-17 095504" src="https://github.com/user-attachments/assets/678e5ede-8c3f-4863-b913-3ca4af51b313" />
 
-Baris 15 membuat fungsi untuk menambahkan tamu baru ke antrian.
+<img width="490" height="34" alt="Screenshot 2026-05-17 100241" src="https://github.com/user-attachments/assets/d8577679-6d7d-4102-a91b-0ada0636b281" />
 
+Baris 15 membuat fungsi untuk menambahkan tamu baru ke antrian, menerima parameter nama dan jumlah.
+
+<img width="868" height="92" alt="Screenshot 2026-05-17 100107" src="https://github.com/user-attachments/assets/d2dde8be-ad66-4922-9049-6067ecb88ef8" />
+
+Baris 16-18 ketika array penuh dengan kapasitas 10 yang sudah dijelaskan diawal, program akan memberi tau dan akan berhenti (return).
 
 
 
