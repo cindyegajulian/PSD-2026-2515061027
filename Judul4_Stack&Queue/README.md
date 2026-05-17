@@ -33,6 +33,15 @@ Baris 7 untuk menghitung nomor antrian secara otomatis. Jadi akan naik setiap ad
 
 Baris 9 & 10 fungsi untuk memeriksa antrian kosong atau tidak. Ketika front_idx masih -1, berarti belum ada tamu, lalu return true.
 
+<img width="819" height="63" alt="Screenshot 2026-05-17 095359" src="https://github.com/user-attachments/assets/787c66b0-faf3-48d3-afdb-89589a98324f" />
+
+Baris 12 & 13 untuk memeriksa  antrian apakah penuh atau tidak. Pakai % MAXN karena antriannya circular (melingkar). Ketika slot tepat setelah rear sudah menyentuh front, artinya penuh.
+
+<img width="496" height="38" alt="Screenshot 2026-05-17 095504" src="https://github.com/user-attachments/assets/678e5ede-8c3f-4863-b913-3ca4af51b313" />
+
+Baris 15 membuat fungsi untuk menambahkan tamu baru ke antrian.
+
+
 
 
 
