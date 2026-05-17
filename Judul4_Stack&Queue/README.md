@@ -69,6 +69,19 @@ Baris 25 menyimpan data tamu ke slot belakang yang barusan digeser.
 
 Baris 26 memberikan pesan bahwa tamu sudah berhasil masuk ke antrian.
 
+<img width="335" height="35" alt="Screenshot 2026-05-17 104609" src="https://github.com/user-attachments/assets/f9b91b04-da18-4101-8dd6-2ec0cde8e0f7" />
+
+Baris 28 fungsi untuk memanggil atau mengeluarkan tamu paling depan (yang duluan dateng, duluan dipanggil).
+
+<img width="859" height="90" alt="Screenshot 2026-05-17 104747" src="https://github.com/user-attachments/assets/d4c807d2-ebec-458c-9c3d-186dcb807f63" />
+
+Baris 29-31 jika antrian kosong, program akan berhenti (return) dan menampilkan pesan "Antrian kosong! Tidak ada tamu yang menunggu".
+
+Baris 32 mengambil data tamu diposisi paling depan .
+
+Baris 33 memberitaukan siapa tamu yang dipanggil. 
+
+Baris 34 & 35 jika tamu yang dipanggil adalah satu-satunya tamu, setelah keluar  antrian jadi kosong, maka akan mereset keduanya ke -1.
 
 
 
