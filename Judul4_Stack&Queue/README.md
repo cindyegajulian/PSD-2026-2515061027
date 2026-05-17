@@ -51,10 +51,23 @@ Baris 19 untuk menaikkan counter yang digunakan untuk menambah nomor antrian bar
 
 <img width="1006" height="33" alt="Screenshot 2026-05-17 101307" src="https://github.com/user-attachments/assets/8bd1e542-045d-4f1f-a740-3fa76f2e1f2c" />
 
-Baris 20 membuat data tamu dengan dictionary. Formatnya A01, A02 dan seterusnya (A untuk antrian, 02d untuk minimal angka yaitu 2 digit, misal 1 jadi 01). 
+Baris 20 membuat data tamu dengan dictionary. Berisi nomor, (formatnya A01, A02 dan seterusnya (A untuk antrian, 02d untuk minimal angka yaitu 2 digit, misal 1 jadi 01)), nama, dan jumlah orang.
 
 <img width="609" height="61" alt="Screenshot 2026-05-17 101541" src="https://github.com/user-attachments/assets/4f62cf07-20f3-46d8-a913-7e0df9faa130" />
 
+Baris 21 & 22 jika antrian kosong tamu pertama masuk di slot 0.
+
+<img width="758" height="60" alt="Screenshot 2026-05-17 103625" src="https://github.com/user-attachments/assets/e784407a-1c3f-41e2-9ba9-508936354f20" />
+
+Baris 23 & 24 jika sebelumnya sudah ada tamu, geser posisi belakang satu slot. Menggunakan % MAXN agar ketika sudah diujung array, ia akan balik lagi ke awal (circular).
+
+<img width="496" height="34" alt="Screenshot 2026-05-17 103717" src="https://github.com/user-attachments/assets/c0468380-7427-4ee5-bccc-b0c0512b9e84" />
+
+Baris 25 menyimpan data tamu ke slot belakang yang barusan digeser. 
+
+<img width="837" height="40" alt="Screenshot 2026-05-17 103732" src="https://github.com/user-attachments/assets/91aa2e50-063c-4b23-a9f1-2d96b13c5225" />
+
+Baris 26 memberikan pesan bahwa tamu sudah berhasil masuk ke antrian.
 
 
 
