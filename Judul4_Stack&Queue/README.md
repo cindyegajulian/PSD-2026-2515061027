@@ -155,6 +155,22 @@ Baris 81 & 83 ketika user menekan enter tanpa menginputkan nama maka program aka
 
 <img width="725" height="234" alt="image" src="https://github.com/user-attachments/assets/0f2cd62d-26e6-4c1e-b0ea-562cd0b638eb" />
 
+Baris 84-91 meminta input jumlah orang, inputnya harus angka dan lebih besar dari 0. Nah ketika input sudah sesuai maka akan lanjut. 
+
+<img width="277" height="16" alt="image" src="https://github.com/user-attachments/assets/e54f73ff-4f3c-40fd-a9dc-7ba2e32bb5b8" />
+
+Baris 92 akan memanggil enqueue untuk mendaftarkan tamu.
+
+<img width="475" height="134" alt="image" src="https://github.com/user-attachments/assets/1cb65e6c-4795-4bf3-9a81-9cc7dd78dda4" />
+
+Baris 93-101 pilihan 2-4 akan mamnggil fungsi yang dimau, nah untuk pilihan 5 untuk keluar dari program. Ketika user menginputkan selain itu, program akan menampilkan 'pilihan tidak valid'.
+
+<img width="203" height="34" alt="image" src="https://github.com/user-attachments/assets/632864bb-24bb-4a6b-92dc-7e2f1cb25cc5" />
+
+Baris 104 & 105 untuk memastikan fungsi main hanya akan dijalankan ketika file ini dijalankan langsung, bukan saat di import dari file lain.
+
+## Link Youtube
+
 
 
 
