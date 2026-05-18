@@ -113,8 +113,9 @@ Baris 44 menampilkan informasi tamu terdepan atau tamu berikutnya dengan nomor a
 
 Baris 46  fungsi untuk menampilkan seluruh isi antrian.
 
-<img width="512" height="91" alt="image" src="https://github.com/user-attachments/assets/91738223-428b-483f-8c45-79f10b5d1eda" />
- Baris 47-49
+<img width="505" height="120" alt="image" src="https://github.com/user-attachments/assets/3b8b3306-9798-44e3-ba57-d87764f9c5ed" />
+
+Baris 47-50 jika kosong program akan berhenti. Lalu akan mencetak semacam judul 'Isi antrian: '.
 
 
 
