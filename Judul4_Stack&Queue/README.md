@@ -123,7 +123,7 @@ Baris 51 i digunakan untuk menunjukkan posisi di array mulai dari depan, lalu po
 
 <img width="1003" height="147" alt="image" src="https://github.com/user-attachments/assets/02402723-c0d5-45b0-9d8f-b0f1dbbab33a" />
 
-Baris 52-56 perulangan 
+Baris 52-56 perulangan atau loop, lalu mengambil data tamu diposisi i, setelahnya menampilkan nomor antrian, nama, dan jumlah orang. Kalau i udah sampai posisi belakang, artinya semua tamu sudah ditampilkan, lalu break, keluar loop.
 
 
 
