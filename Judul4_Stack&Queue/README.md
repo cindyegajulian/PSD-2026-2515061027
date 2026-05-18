@@ -141,7 +141,22 @@ Baris 63 akan terus melakukan looping selama user belum pilih 5 (keluar).
 
 Baris 64-72 menampilkan pilihan yang ada ke layar.
 
-Baris 73-77 
+<img width="764" height="142" alt="image" src="https://github.com/user-attachments/assets/051bd955-0ec8-4a9f-b1c1-88423d9d42c9" />
+
+Baris 73-77 mencoba meminta input dari user. Ketika user menginputkan bukan angka, maka akan error lalu menampilkan pesan error dan akan lanjut ke iterasi berikutnya.
+
+<img width="626" height="60" alt="image" src="https://github.com/user-attachments/assets/42fc180a-b3b9-4a55-87d3-047c302c280b" />
+
+Baris 78 & 79 jika pilih 1, program akan meminta input nama tamu, lalu .strip buat bersihin spasi di awal atau akhir jika ada. 
+
+<img width="663" height="88" alt="image" src="https://github.com/user-attachments/assets/9cbdf48c-e8fe-44ee-b6c7-569b258dddfc" />
+
+Baris 80 & 81 ketika user menekan enter tanpa menginputkan nama maka program akan menampilkan peringatan bahwa nama tidak boleh kosong.
+
+<img width="725" height="234" alt="image" src="https://github.com/user-attachments/assets/0f2cd62d-26e6-4c1e-b0ea-562cd0b638eb" />
+
+
+
 
 
 
