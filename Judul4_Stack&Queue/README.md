@@ -117,7 +117,13 @@ Baris 46  fungsi untuk menampilkan seluruh isi antrian.
 
 Baris 47-50 jika kosong program akan berhenti. Lalu akan mencetak semacam judul 'Isi antrian: '.
 
+<img width="481" height="36" alt="image" src="https://github.com/user-attachments/assets/fe4b9aed-d63a-4922-9597-9f6a53f64ad5" />
 
+Baris 51 i digunakan untuk menunjukkan posisi di array mulai dari depan, lalu pos untuk nomor urut tampilan (1, 2, 3...).
+
+<img width="1003" height="147" alt="image" src="https://github.com/user-attachments/assets/02402723-c0d5-45b0-9d8f-b0f1dbbab33a" />
+
+Baris 52-56 perulangan 
 
 
 
