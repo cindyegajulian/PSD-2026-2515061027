@@ -123,7 +123,25 @@ Baris 51 i digunakan untuk menunjukkan posisi di array mulai dari depan, lalu po
 
 <img width="1003" height="147" alt="image" src="https://github.com/user-attachments/assets/02402723-c0d5-45b0-9d8f-b0f1dbbab33a" />
 
-Baris 52-56 perulangan atau loop, lalu mengambil data tamu diposisi i, setelahnya menampilkan nomor antrian, nama, dan jumlah orang. Kalau i udah sampai posisi belakang, artinya semua tamu sudah ditampilkan, lalu break, keluar loop.
+Baris 52-56 perulangan atau loop, lalu mengambil data tamu diposisi i, setelahnya menampilkan nomor antrian, nama, dan jumlah orang. Kalau i udah sampai posisi belakang, artinya semua tamu sudah ditampilkan, lalu break untuk keluar loop.
+
+<img width="486" height="59" alt="image" src="https://github.com/user-attachments/assets/ed96dbea-d0e0-4575-bde5-3942a43859a4" />
+
+Baris 57 & 58 geser i ke slot berikutnya secara circular, lalu naikkan nomor urut.  
+
+<img width="552" height="85" alt="image" src="https://github.com/user-attachments/assets/8fe92887-65ef-48f8-a601-3d22fdad5d9f" />
+
+Baris 60-62 membuat fungsi main, logika berjalannya program, lalu variabel antrian dengan kapasitas 10. Lalu inisialisasi pilih = 0 agar loop bisa dimulai. 
+
+<img width="321" height="31" alt="image" src="https://github.com/user-attachments/assets/47582f41-2df6-4273-8c4a-ad9d05bf4594" />
+
+Baris 63 akan terus melakukan looping selama user belum pilih 5 (keluar).
+
+<img width="821" height="264" alt="image" src="https://github.com/user-attachments/assets/b465fdac-ece9-468c-bec8-1ec0c211423a" />
+
+Baris 64-72 menampilkan pilihan yang ada ke layar.
+
+Baris 73-77 
 
 
 
