@@ -147,11 +147,11 @@ Baris 73-77 mencoba meminta input dari user. Ketika user menginputkan bukan angk
 
 <img width="626" height="60" alt="image" src="https://github.com/user-attachments/assets/42fc180a-b3b9-4a55-87d3-047c302c280b" />
 
-Baris 78 & 79 jika pilih 1, program akan meminta input nama tamu, lalu .strip buat bersihin spasi di awal atau akhir jika ada. 
+Baris 79 & 80 jika pilih 1, program akan meminta input nama tamu, lalu .strip buat bersihin spasi di awal atau akhir jika ada. 
 
 <img width="663" height="88" alt="image" src="https://github.com/user-attachments/assets/9cbdf48c-e8fe-44ee-b6c7-569b258dddfc" />
 
-Baris 80 & 81 ketika user menekan enter tanpa menginputkan nama maka program akan menampilkan peringatan bahwa nama tidak boleh kosong.
+Baris 81 & 83 ketika user menekan enter tanpa menginputkan nama maka program akan menampilkan peringatan bahwa nama tidak boleh kosong.
 
 <img width="725" height="234" alt="image" src="https://github.com/user-attachments/assets/0f2cd62d-26e6-4c1e-b0ea-562cd0b638eb" />
 
