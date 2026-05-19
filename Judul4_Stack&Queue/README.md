@@ -182,6 +182,22 @@ Ketika user menginputkan satu, maka program akan meminta input kembali, yaitu na
 
 Selanjutnya, ketika nama tamu sudah berhasil diinputkan, maka program akan meminta input untuk jumlah orangnya.
 
+<img width="260" height="317" alt="image" src="https://github.com/user-attachments/assets/c24c08bf-d5bf-46ea-8e86-05e59b5223db" />
+
+Nah ketika nama dan jumlah orang sudah berhasil diinput, program akan memberitahu ke user bahwa data berhasil disimpan. Selanjutnya akan meminta input kembali sampai user memilih 5 untuk keluar dan program baru akan berhenti.
+
+<img width="247" height="221" alt="image" src="https://github.com/user-attachments/assets/f45da48a-12a5-40a6-a75f-ccd83eeba056" />
+
+Nah ini untuk output ketika user memilih 4 dan sebelumnya user sudah menginputkan beberapa nama pelanggan.
+
+<img width="262" height="158" alt="image" src="https://github.com/user-attachments/assets/1cd0a398-c911-4a24-8969-c438b2c33e69" />
+
+Selanjutnya ketika user akan memanggil tamu, ini akan terurut sesuai dengan nomor urut tamu tersebut.
+
+<img width="262" height="158" alt="image" src="https://github.com/user-attachments/assets/274ff1c1-6aec-4a05-8e37-513037a485e9" />
+
+Ini untuk output ketika user memilih 3 untuk menampilkan tamu selanjutnya, yaitu pada nomor urut 2.
+
 
 ## Link Youtube
 
