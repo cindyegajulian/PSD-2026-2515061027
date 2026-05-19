@@ -169,6 +169,15 @@ Baris 93-101 pilihan 2-4 akan mamnggil fungsi yang dimau, nah untuk pilihan 5 un
 
 Baris 104 & 105 untuk memastikan fungsi main hanya akan dijalankan ketika file ini dijalankan langsung, bukan saat di import dari file lain.
 
+## 0utuput
+<img width="283" height="162" alt="image" src="https://github.com/user-attachments/assets/90586ef9-0b95-4b0d-aea6-5cf5ef1513c6" />
+
+Output ketika user menginputkan bukan angka 1-5 dimana program akan menampilkan bahwa output tidak valid dan akan meminta input ulang.
+
+<img width="266" height="148" alt="image" src="https://github.com/user-attachments/assets/ea290db9-e8a6-4776-be2d-eb88c6aa7df5" />
+
+Ketika user menginputkan satu, maka program akan meminta input kembali nama orang sebagai tamunya.
+
 ## Link Youtube
 
 
