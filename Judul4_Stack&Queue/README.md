@@ -176,7 +176,12 @@ Output ketika user menginputkan bukan angka 1-5 dimana program akan menampilkan 
 
 <img width="266" height="148" alt="image" src="https://github.com/user-attachments/assets/ea290db9-e8a6-4776-be2d-eb88c6aa7df5" />
 
-Ketika user menginputkan satu, maka program akan meminta input kembali nama orang sebagai tamunya.
+Ketika user menginputkan satu, maka program akan meminta input kembali, yaitu nama orang sebagai tamunya.
+
+<img width="265" height="167" alt="image" src="https://github.com/user-attachments/assets/0d8fc612-f5de-410a-810a-68cf4264945f" />
+
+Selanjutnya, ketika nama tamu sudah berhasil diinputkan, maka program akan meminta input untuk jumlah orangnya.
+
 
 ## Link Youtube
 
