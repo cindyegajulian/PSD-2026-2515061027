@@ -194,7 +194,7 @@ Nah ini untuk output ketika user memilih 4 dan sebelumnya user sudah menginputka
 
 Selanjutnya ketika user akan memanggil tamu, ini akan terurut sesuai dengan nomor urut tamu tersebut.
 
-<img width="262" height="158" alt="image" src="https://github.com/user-attachments/assets/274ff1c1-6aec-4a05-8e37-513037a485e9" />
+<img width="266" height="152" alt="Screenshot 2026-05-19 161847" src="https://github.com/user-attachments/assets/75da878e-5080-4499-9b47-bab171aff759" />
 
 Ini untuk output ketika user memilih 3 untuk menampilkan tamu selanjutnya, yaitu pada nomor urut 2.
 
