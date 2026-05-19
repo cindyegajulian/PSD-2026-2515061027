@@ -188,7 +188,7 @@ Nah ketika nama dan jumlah orang sudah berhasil diinput, program akan memberitah
 
 <img width="247" height="221" alt="image" src="https://github.com/user-attachments/assets/f45da48a-12a5-40a6-a75f-ccd83eeba056" />
 
-Nah ini untuk output ketika user memilih 4 dan sebelumnya user sudah menginputkan beberapa nama pelanggan.
+Nah ini untuk output ketika user memilih 4 dan sebelumnya user sudah menginputkan beberapa nama tamu.
 
 <img width="262" height="158" alt="image" src="https://github.com/user-attachments/assets/1cd0a398-c911-4a24-8969-c438b2c33e69" />
 
@@ -197,6 +197,10 @@ Selanjutnya ketika user akan memanggil tamu, ini akan terurut sesuai dengan nomo
 <img width="262" height="158" alt="image" src="https://github.com/user-attachments/assets/274ff1c1-6aec-4a05-8e37-513037a485e9" />
 
 Ini untuk output ketika user memilih 3 untuk menampilkan tamu selanjutnya, yaitu pada nomor urut 2.
+
+<img width="262" height="158" alt="image" src="https://github.com/user-attachments/assets/07cf7ed1-0a5b-4ed8-bb95-2841a1387d2f" />
+
+
 
 
 ## Link Youtube
