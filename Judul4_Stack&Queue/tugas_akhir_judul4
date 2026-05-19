@@ -97,7 +97,7 @@ def main():
         elif pilih == 4: 
             antrian.display()
         elif pilih == 5: 
-            print("\n  Terima kasih! Sampai jumpa di Warung Mak Enah! \n")
+            print("Terima kasih! Sampai jumpa di Warung Mak Enah!")
         else: print("Pilihan tidak valid!")
 
 
