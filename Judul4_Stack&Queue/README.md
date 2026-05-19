@@ -198,10 +198,9 @@ Selanjutnya ketika user akan memanggil tamu, ini akan terurut sesuai dengan nomo
 
 Ini untuk output ketika user memilih 3 untuk menampilkan tamu selanjutnya, yaitu pada nomor urut 2.
 
-<img width="262" height="158" alt="image" src="https://github.com/user-attachments/assets/07cf7ed1-0a5b-4ed8-bb95-2841a1387d2f" />
+<img width="270" height="154" alt="Screenshot 2026-05-19 162251" src="https://github.com/user-attachments/assets/bfc7f1f6-adaf-48d8-a8c8-e687a0672861" />
 
-
-
+Output ketika tamu memilih 5 yaitu untuk keluar dari program.
 
 ## Link Youtube
 
