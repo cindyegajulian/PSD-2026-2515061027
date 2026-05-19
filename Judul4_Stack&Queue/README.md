@@ -19,7 +19,7 @@ Baris 3 menyimpan nilai kapasitas ke variabel MAXN, yang nantinya akan jadi bata
 
 <img width="478" height="31" alt="Screenshot 2026-05-17 092441" src="https://github.com/user-attachments/assets/acbc3d6a-d223-4b77-bba9-a9b1c88f90a1" />
 
-Baris 4 membuat array sepanjang MAXN yang isinya kosong semua, atau None. Ini akan menjadi tempat duduk para tamju, makanya di awal kosong semua.
+Baris 4 membuat array sepanjang MAXN yang isinya kosong semua, atau None. Ini akan menjadi tempat duduk para tamu, makanya di awal kosong semua.
 
 <img width="381" height="61" alt="Screenshot 2026-05-17 092933" src="https://github.com/user-attachments/assets/0d5d8f9a-f37d-437b-bf93-8f1218a806ef" />
 
