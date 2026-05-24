@@ -39,8 +39,8 @@ Baris 20 & 21 fungsi yang anntinya dipakai di menu. user cukup menginputkan angk
 
 <img width="674" height="235" alt="image" src="https://github.com/user-attachments/assets/aa259f4c-cc06-4d45-a64c-1be992c1f72b" />
 
-Baris 23 & 24 fungsi untuk mencari node, ketika root kosong akan return false, artinya tidak ada node selanjutnya, karena yang akan pertama kali dicari adalah root
+Baris 23 & 25 fungsi untuk mencari node, ketika root kosong akan return false, artinya tidak ada node selanjutnya, karena yang akan pertama kali dicari adalah root
 
-Baris 25 & 26 jika nilai di root sama dengan key, artinya nilai yang dicari sudah ditemukan karena itulah true. 
+Baris 26 & 27 jika nilai di root sama dengan key, artinya nilai yang dicari sudah ditemukan karena itulah true. 
 
-Baris 27 & 28 jika nilai key kurang dari root artinya nilai yang dicari ada di subpohon kiri karena dia lebih kecil.
+Baris 28 & 30 jika nilai key kurang dari root artinya nilai yang dicari ada di subpohon kiri karena dia lebih kecil. Nah kalau engga di subpohon kanan berarti dia lebih besar.
