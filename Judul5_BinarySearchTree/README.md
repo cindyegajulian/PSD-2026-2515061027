@@ -22,3 +22,25 @@ Baris 7 class yang nantinya akan mengelola seluruh node.
 Baris 8 fungsi untuk inisialisasi saat sistem mulai berjalan
 
 Baris 9 variabel root atau akar, yang awalnya kosong karena belum ada nilai yang di masukkan.
+
+<img width="750" height="320" alt="image" src="https://github.com/user-attachments/assets/42479373-4a0e-4242-88f3-4c724586bd4d" />
+
+Baris 11 fungsi yang digunakan untuk menambahkan nilai baru. 
+
+Baris 12 & 13 jika root kosong, return node(key). Artinya ketika root kosong, belum ada nilai sama sekali, nilai yang pertama masuk akan menempati posisi root.
+
+Baris 14 & 15 ketika nilai key kurang dari root dia akan digeser ke sebelah kiri atau cabang kiri untuk diproses lagi.
+
+Baris 16 & 17, ketika nilai key lebih besar dari root, akan di geser ke subpohon kanan atau akan digeser ke sebelah kanan root
+
+Baris 18 mengembalikan dengan versi yang sudah diperbarui.
+
+Baris 20 & 21 fungsi yang anntinya dipakai di menu. user cukup menginputkan angka  lalu sistem akan memanggil insert.
+
+<img width="674" height="235" alt="image" src="https://github.com/user-attachments/assets/aa259f4c-cc06-4d45-a64c-1be992c1f72b" />
+
+Baris 23 & 24 fungsi untuk mencari node, ketika root kosong akan return false, artinya tidak ada node selanjutnya, karena yang akan pertama kali dicari adalah root
+
+Baris 25 & 26 jika nilai di root sama dengan key, artinya nilai yang dicari sudah ditemukan karena itulah true. 
+
+Baris 27 & 28 jika nilai key kurang dari root artinya nilai yang dicari ada di subpohon kiri karena dia lebih kecil.
