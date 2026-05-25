@@ -35,7 +35,7 @@ Baris 16 & 17, ketika nilai key lebih besar dari root, akan di geser ke subpohon
 
 Baris 18 mengembalikan dengan versi yang sudah diperbarui.
 
-Baris 20 & 21 fungsi yang anntinya dipakai di menu. user cukup menginputkan angka  lalu sistem akan memanggil insert.
+Baris 20 & 21 fungsi utama agar menu langsung memanggil fungsi insert dan memulai dari self.root
 
 <img width="674" height="235" alt="image" src="https://github.com/user-attachments/assets/aa259f4c-cc06-4d45-a64c-1be992c1f72b" />
 
@@ -43,4 +43,9 @@ Baris 23 & 25 fungsi untuk mencari node, ketika root kosong akan return false, a
 
 Baris 26 & 27 jika nilai di root sama dengan key, artinya nilai yang dicari sudah ditemukan karena itulah true. 
 
-Baris 28 & 30 jika nilai key kurang dari root artinya nilai yang dicari ada di subpohon kiri karena dia lebih kecil. Nah kalau engga di subpohon kanan berarti dia lebih besar.
+Baris 28 & 30 jika nilai key kurang dari root artinya nilai yang dicari ada di subpohon kiri karena dia lebih kecil. Nah kalau dia lebih besar dari root maka yang dicari ada di subpohon kanan.
+
+<img width="625" height="62" alt="image" src="https://github.com/user-attachments/assets/dbf283e3-0198-48c4-a3c1-7f595d6d3945" />
+
+Baris 32 & 33 sama seperti insert, ini adalah fungsi utama agar menu langsung mencari mulai dari self.root
+
