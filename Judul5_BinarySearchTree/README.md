@@ -51,7 +51,7 @@ Baris 32 & 33 sama seperti insert, ini adalah fungsi utama agar menu langsung me
 
 <img width="452" height="179" alt="Screenshot 2026-05-25 082530" src="https://github.com/user-attachments/assets/774dffd2-6395-4ff5-a2c4-16a288b867e6" />
 
-Baris 35-39 Baris dengan fungsi inorder, jika root kosong return none. Ketika root ada isinya program akan lanjut menelusuri kiri  dulu, (root.left). Saat sebelah kiri selesai ditelusuri program akan mencetak nilai ujian yang ada diposisi root.key lalu end= " " agar angka yang dicetak berbaris rapi ke samping bukan ke bawah. Setelah proses cetak selesai, yang terakhir dilakukan adalah mengecek sebelah kanan (root.right). Mudahnya dia akan jalan dari kiri - root - kanan. 
+Baris 35-40 Baris dengan fungsi inorder, jika root kosong return none. Ketika root ada isinya program akan lanjut menelusuri kiri  dulu, (root.left). Saat sebelah kiri selesai ditelusuri program akan mencetak nilai ujian yang ada diposisi root.key lalu end= " " agar angka yang dicetak berbaris rapi ke samping bukan ke bawah. Setelah proses cetak selesai, yang terakhir dilakukan adalah mengecek sebelah kanan (root.right). Mudahnya dia akan jalan dari kiri - root - kanan. 
 
 <img width="456" height="177" alt="image" src="https://github.com/user-attachments/assets/86bda090-66a9-4cbd-9e92-882cbea744be" />
 
