@@ -116,6 +116,20 @@ Baris 143 & 144, fungsi untuk memastikan program berjalan hanya ketika program d
 
 ## Output
 
+<img width="349" height="664" alt="Screenshot 2026-05-25 193715" src="https://github.com/user-attachments/assets/10783f4b-033a-411e-9ebe-484be840d7a5" />
+
+<img width="294" height="785" alt="image" src="https://github.com/user-attachments/assets/e1f98066-34cc-4fcc-89a8-556b612f735f" />
+
+Output ketika user memilih 1 dan menginputkan nilai.
+
+<img width="615" height="113" alt="image" src="https://github.com/user-attachments/assets/f812c129-2276-496b-8d66-a012b5aa44a1" />
+
+Output ketika user memilih 2 dan akan diminta untuk menginputkan nilai yang ingin dicari. Dan ini output ketika nilai ditemuka.
+
+<img width="685" height="110" alt="image" src="https://github.com/user-attachments/assets/0a97ffcb-0407-409d-b478-a135343ef443" />
+
+sama seperti sebelumnya hanya saja ini adalah output ketika nilai  yang ingin dicari tidak ada.
+
 ## Link Youtube
 https://youtu.be/YU0WjS4upBs
 
