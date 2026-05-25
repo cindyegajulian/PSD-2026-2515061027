@@ -65,3 +65,12 @@ Baris 49-54 baris dengan fungsi postorder, sama dengann inorder dan preorder, ya
 
 Baris 56-62 Baris dengaan fungsi find_min, awal mencari dari root terlebih dahulu, jika root kosong akan return -1. Buat variabel current untuk menyimpan root. Perulangan ketika sebelah kiri belum kosong program akan terus berjalan ke kiri, karena yang dicari adalah angka terkecil (min). Return current.key artinya program sudah tidak menemukan lagi cabang kiri, yang ditemukan saat itu lah nilai terkecilnya.
 
+<img width="546" height="207" alt="image" src="https://github.com/user-attachments/assets/3c832b8d-388b-44d4-b3d9-424e0d4d8818" />
+
+Baris 64-70 baris dengan fungsi find_max, ini kebalikan dari yang sebelumnya logikanya sama hanya beda ketika min akan mencari ke kiri, nah max akan terus mencari ke kanan sssampai menemukan yang paling ujung, karena mencari nilai  terbesar.
+
+<img width="981" height="125" alt="image" src="https://github.com/user-attachments/assets/a20df20f-401c-4b73-8483-6631c55ecbf7" />
+
+Baris 72-75 Baris dengan fungsi count_nodes 
+
+
