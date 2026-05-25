@@ -83,3 +83,24 @@ Baris 77-80 fungsi sum_nodes untuk  menjumlahkan semua isi dari node. Seperti se
 Baris 82-96 fungsi main yang akan dijalankan nanti, menyimpan class BSTDasar yang logika diawal tadi di variabel bst untuk mengaktifkan programnya. While pilih != 10 selama user belum menginputkan 10 program akan tetap berjalan.
 
 86-96 opsi yang akan ditampilkan ke user
+
+
+<img width="480" height="88" alt="image" src="https://github.com/user-attachments/assets/a94febe8-f090-4445-9754-c33b87c70e9b" />
+
+Baris 97-101 ketika user menginputkan nilai yang bukan 1 sampai 10 program akan memberitahukan kepada user bahwa input tidak valid Silahkan pilih nomor menu, pengunakan except value error agar program tidak error ketika user menginputkan angka atau yang lain selain yang diminta. Lalu lanjut.
+
+
+<img width="641" height="145" alt="Screenshot 2026-05-25 095702" src="https://github.com/user-attachments/assets/aa98b4e2-91f3-409a-94d1-a79b6bdadfbb" />
+
+Baris 102-108 Ketika user memilih 1, program akan meminta user menginputkan nilai ujian siswa dan memanggil fungsi insert yang tadi sudah dibuat. Lalu print untuk memberitahukan ke user bahwa nilai sudah berhasil dimasukkan. Selanjutnya except vallueerror sama seperti sebelumnya, untuk menangani error ketika user menginputkan bukan yang diminta oleh program
+
+
+<img width="708" height="184" alt="image" src="https://github.com/user-attachments/assets/f5f5a3f7-125a-4f51-a24a-9756392f1f61" />
+
+Baris 109-117 di kondisi yang lain ketika user memilih 2 program akan meminta untuk user menginputkan nilai berapa yang ingin dicari, disini digunakan fungsi search yang tadi sudah dibuat. Jika nilai ditemukan, program akan print hasil guna memberitahukan ke user bahwa siswa yang mendapatkan nilai tersebut itu ada. Lalu ketika tidak ada siswa yang mendapatkan nilai tersebut program akan memberitahu bahwa siswa tidak ada yang mendapatkan nilai tersebut. except vallueerror ketika user menginputkan bukan angka program akan memberitahu bahwa inputnya tidak valid.
+
+
+<img width="771" height="481" alt="image" src="https://github.com/user-attachments/assets/97980a40-7a14-496b-b4c4-6a3e49a0a176" />
+
+
+
