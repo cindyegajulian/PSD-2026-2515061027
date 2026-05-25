@@ -130,6 +130,42 @@ Output ketika user memilih 2 dan akan diminta untuk menginputkan nilai yang ingi
 
 sama seperti sebelumnya hanya saja ini adalah output ketika nilai  yang ingin dicari tidak ada.
 
+<img width="467" height="60" alt="image" src="https://github.com/user-attachments/assets/e7e4e6c2-dc4f-44de-b727-d73cd6273658" />
+
+output ketika user memilih 3 untuk mencetak nilai dengan urutan terkecil
+
+<img width="457" height="58" alt="image" src="https://github.com/user-attachments/assets/82bf1b2a-dad7-49f0-b055-87d76b6ac15a" />
+
+Memilih 4 untuk mencetak berdasarkan preorder
+
+<img width="476" height="60" alt="image" src="https://github.com/user-attachments/assets/4f7f761b-5e33-4f96-94bc-74653eb3aeae" />
+
+Memilih 5 untuk mencetak berdasarkan postorder
+
+<img width="242" height="62" alt="image" src="https://github.com/user-attachments/assets/7f77c1ca-bd59-4b1f-854a-4a3810735585" />
+
+Memilih 6 untuk menampilkan nilai terendah
+
+<img width="252" height="58" alt="image" src="https://github.com/user-attachments/assets/b59e149b-c97a-4634-bd50-799fa1277950" />
+
+Memilih 7 untuk nilai tertinggi
+
+<img width="386" height="51" alt="image" src="https://github.com/user-attachments/assets/4c6783c7-cdc6-4749-8c1a-e79de6f08223" />
+
+Memilih 8 untuk menghitung berapa banyak siswa
+
+<img width="527" height="301" alt="image" src="https://github.com/user-attachments/assets/095b1560-81e6-48f0-b1c7-21b30089133f" />
+
+Memilih 9 untuk menghitung jumlah nilai keseluruhan siswa.
+
+<img width="519" height="604" alt="image" src="https://github.com/user-attachments/assets/fa3b23df-cab6-4e4c-a258-9d6dc37b3444" />
+
+Peringatan ketika user menginputkan tidak sesuai dengan apa yang diminta program
+
+<img width="384" height="107" alt="image" src="https://github.com/user-attachments/assets/cbbd9adf-9414-4e78-b526-f5f71aa87425" />
+
+Dan di akhir, ketika user memilih 10, program akan berhenti berjalan. Selesai.
+
 ## Link Youtube
 https://youtu.be/YU0WjS4upBs
 
