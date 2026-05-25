@@ -63,5 +63,5 @@ Baris 49-54 baris dengan fungsi postorder, sama dengann inorder dan preorder, ya
 
 <img width="529" height="204" alt="image" src="https://github.com/user-attachments/assets/216cfbf9-d2f7-4f8c-b746-1873d9158223" />
 
-Baris 56-62 Baris dengaan fungsi find_min, awal mencari dari root terlebih dahulu, jika root kosong akan return -1.
+Baris 56-62 Baris dengaan fungsi find_min, awal mencari dari root terlebih dahulu, jika root kosong akan return -1. Buat variabel current untuk menyimpan root. Perulangan ketika sebelah kiri belum kosong program akan terus berjalan ke kiri, karena yang dicari adalah angka terkecil (min). Return current.key artinya program sudah tidak menemukan lagi cabang kiri, yang ditemukan saat itu lah nilai terkecilnya.
 
