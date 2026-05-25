@@ -51,7 +51,17 @@ Baris 32 & 33 sama seperti insert, ini adalah fungsi utama agar menu langsung me
 
 <img width="452" height="179" alt="Screenshot 2026-05-25 082530" src="https://github.com/user-attachments/assets/774dffd2-6395-4ff5-a2c4-16a288b867e6" />
 
-Baris 35-39 Baris dengan fungsi inorder, jika root kosong return none. Ketika root ada isinya program akan lanjut menelusuri kiri  dulu, (root.left). Saat sebelah kiri selesai ditelusuri program akan mencetak nilai ujian yang ada diposisi root.key lalu end= " " agar angka yang dicetak berbaris rapi ke samping bukan ke bawah.
+Baris 35-39 Baris dengan fungsi inorder, jika root kosong return none. Ketika root ada isinya program akan lanjut menelusuri kiri  dulu, (root.left). Saat sebelah kiri selesai ditelusuri program akan mencetak nilai ujian yang ada diposisi root.key lalu end= " " agar angka yang dicetak berbaris rapi ke samping bukan ke bawah. Setelah proses cetak selesai, yang terakhir dilakukan adalah mengecek sebelah kanan (root.right). Mudahnya dia akan jalan dari kiri - root - kanan. 
 
+<img width="456" height="177" alt="image" src="https://github.com/user-attachments/assets/86bda090-66a9-4cbd-9e92-882cbea744be" />
 
+Baris 42-47 baris dengan fungsi preorder, sama seperti inorder, bedanya preorder akan mencetak nilai rootnya terlebih dahulu (print(root.key, end= " ")) baru  setelahnya akan menelusuri sebelah kiri dan terakhir ke kanan. Nah preorder jalan dari root -  kiri - kanan.
+
+<img width="469" height="183" alt="image" src="https://github.com/user-attachments/assets/57542a3c-e38f-4066-97fd-5f1082f80f27" />
+
+Baris 49-54 baris dengan fungsi postorder, sama dengann inorder dan preorder, yang membedakan adalah, postorder mulai menelusuri dari sebelah kiri terlebih dahuku, lalu lanjut ke kanan, setelah baru ke root. Baru setelahnya akan mencetak  nilainya. Alur jalannya  kiri - kanan - root.
+
+<img width="529" height="204" alt="image" src="https://github.com/user-attachments/assets/216cfbf9-d2f7-4f8c-b746-1873d9158223" />
+
+Baris 56-62 Baris dengaan fungsi find_min, awal mencari dari root terlebih dahulu, jika root kosong akan return -1.
 
