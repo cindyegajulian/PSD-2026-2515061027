@@ -77,3 +77,9 @@ Baris 72-75 Baris dengan fungsi count_nodes untuk menghitung berapa banyak node 
 
 Baris 77-80 fungsi sum_nodes untuk  menjumlahkan semua isi dari node. Seperti sebelumnya, ketika root kosong akan return 0 tetapi jika root tidak kosong akan lanjut ke perhitungan jumlah dari node dengan menambahkan nilai di root lalu tambahkan dengan hasil penjumlahan sebelah kiri lalu sebelah kanan.
 
+
+<img width="920" height="431" alt="image" src="https://github.com/user-attachments/assets/2d52e5b2-be97-4e1e-94a2-07b2c9dabe77" />
+
+Baris 82-96 fungsi main yang akan dijalankan nanti, menyimpan class BSTDasar yang logika diawal tadi di variabel bst untuk mengaktifkan programnya. While pilih != 10 selama user belum menginputkan 10 program akan tetap berjalan.
+
+86-96 opsi yang akan ditampilkan ke user
