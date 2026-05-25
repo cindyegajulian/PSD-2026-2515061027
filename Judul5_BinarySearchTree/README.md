@@ -114,6 +114,11 @@ Baris 126-129 ketika user pilih 5 progran akan menelusuri nilai berdasarkan logi
 
 Baris 143 & 144, fungsi untuk memastikan program berjalan hanya ketika program dijalankan.
 
+## Output
+
+## Link Youtube
+https://youtu.be/YU0WjS4upBs
+
 
 
 
