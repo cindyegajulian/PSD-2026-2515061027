@@ -71,6 +71,9 @@ Baris 64-70 baris dengan fungsi find_max, ini kebalikan dari yang sebelumnya log
 
 <img width="981" height="125" alt="image" src="https://github.com/user-attachments/assets/a20df20f-401c-4b73-8483-6631c55ecbf7" />
 
-Baris 72-75 Baris dengan fungsi count_nodes 
+Baris 72-75 Baris dengan fungsi count_nodes untuk menghitung berapa banyak node yang ada, kalau di program itu menghitung berapa banyak siswa yang mengumpulkan nilai ujian. Pertama akan cek root, ketika dia kosong akan return 0 artinya tidak ada node yang bisa dihitung karena kosong. Nah kalau ga kosong akan lanjut ke perhitungan berapa banyak node yang ada, 1 untuk root lalu ditambah dengan node kiri dan node kanan.
 
+<img width="1018" height="122" alt="image" src="https://github.com/user-attachments/assets/a032b81a-0574-4371-aba6-b6fcce2177c4" />
+
+Baris 77-80 fungsi sum_nodes untuk  menjumlahkan semua isi dari node. Seperti sebelumnya, ketika root kosong akan return 0 tetapi jika root tidak kosong akan lanjut ke perhitungan jumlah dari node dengan menambahkan nilai di root lalu tambahkan dengan hasil penjumlahan sebelah kiri lalu sebelah kanan.
 
