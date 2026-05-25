@@ -43,9 +43,15 @@ Baris 23 & 25 fungsi untuk mencari node, ketika root kosong akan return false, a
 
 Baris 26 & 27 jika nilai di root sama dengan key, artinya nilai yang dicari sudah ditemukan karena itulah true. 
 
-Baris 28 & 30 jika nilai key kurang dari root artinya nilai yang dicari ada di subpohon kiri karena dia lebih kecil. Nah kalau dia lebih besar dari root maka yang dicari ada di subpohon kanan.
+Baris 28-30 jika nilai key kurang dari root artinya nilai yang dicari ada di subpohon kiri karena dia lebih kecil. Nah kalau dia lebih besar dari root maka yang dicari ada di subpohon kanan.
 
 <img width="625" height="62" alt="image" src="https://github.com/user-attachments/assets/dbf283e3-0198-48c4-a3c1-7f595d6d3945" />
 
 Baris 32 & 33 sama seperti insert, ini adalah fungsi utama agar menu langsung mencari mulai dari self.root
+
+<img width="452" height="179" alt="Screenshot 2026-05-25 082530" src="https://github.com/user-attachments/assets/774dffd2-6395-4ff5-a2c4-16a288b867e6" />
+
+Baris 35-39 Baris dengan fungsi inorder, jika root kosong return none. Ketika root ada isinya program akan lanjut menelusuri kiri  dulu, (root.left). Saat sebelah kiri selesai ditelusuri program akan mencetak nilai ujian yang ada diposisi root.key lalu end= " " agar angka yang dicetak berbaris rapi ke samping bukan ke bawah.
+
+
 
