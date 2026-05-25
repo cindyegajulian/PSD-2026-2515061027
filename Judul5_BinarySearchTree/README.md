@@ -102,5 +102,19 @@ Baris 109-117 di kondisi yang lain ketika user memilih 2 program akan meminta un
 
 <img width="771" height="481" alt="image" src="https://github.com/user-attachments/assets/97980a40-7a14-496b-b4c4-6a3e49a0a176" />
 
+Baris 118-121 ketika user pilih 3 progran akan menampilkan nilai urut mahasiswa dari terkecil dengan memanggil fungsi inorder. 
+
+Baris 122-125 ketika user pilih 4 program akan menelusuri nilai berdasarkan logika preorder dengan memanggil fungsi preorder yang sudah dibuat.
+
+Baris 126-129 ketika user pilih 5 progran akan menelusuri nilai berdasarkan logika preorder dengan memanggil fungsi preorder yang sudah dibuat.
+
+130-141 program akan menampilkan output ke user sesuai dengan pilihan user. else: ketika yang diinputkan bukan 1-10 program memberitahukan ke user bahwa pilihannya tidak valid.
+
+<img width="274" height="46" alt="image" src="https://github.com/user-attachments/assets/fc5b4a8f-535c-4752-bab6-a22ba4904203" />
+
+Baris 143 & 144, fungsi untuk memastikan program berjalan hanya ketika program dijalankan.
+
+
+
 
 
