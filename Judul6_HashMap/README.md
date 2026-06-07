@@ -39,4 +39,7 @@ Terakhir memastikan agar fungsi main() dieksekusi hanya ketika file dijalankan l
 
 ## Output
 <img width="510" height="670" alt="Screenshot 2026-06-07 131308" src="https://github.com/user-attachments/assets/4ae66952-7dfc-4efc-88f4-3ecfe8c8a1c5" />
+
 Output dari semua logika yang ada. Awalnya, terlihat penumpukan data di laci nomor 1, sehingga data peserta 21, 11, dan 1 terpaksa mengantre saling bersambung membentuk list. Kemudian, program membuktikan bisa mencari dan memunculkan skor peserta nomor 11 dari dalam antrian tersebut. Terakhir, saat data peserta 11 dihapus, sistem menunjukkan bahwa datanya berhasil dicabut dari tengah antrian dengan aman, sehingga sisa datanya (peserta 21 dan 1) langsung menyambung kembali tanpa membuat listnya terputus.
+
+## Link Youtube
