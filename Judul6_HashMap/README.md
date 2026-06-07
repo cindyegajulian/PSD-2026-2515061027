@@ -31,7 +31,12 @@ Baris 37-50 fungsi untuk menghapus peserta dari sistem. Selanjutnya mencari tau 
 
 Baris 52-60 fungsi untuk memvisualisasi sistem. Lalu mencetak teks judul, selanjutnya melakukan iterasi berulang pada indeks ke-0 sampai ke-9. Lalu menampilkan angka untuk nomor urut, selanjutnya mengambil elemen pertama dari indeks saat ini. Seperti sebelumnya mengecek apakah current tidak kosong. Lalu mencetak nomor peserta dan skor TKA. Selanjutnya geser ke node berikutnya untuk dicetak. Terakhir mencetak batas akhir yang menandakan node selanjutnya sudah kosong.
 
-<img width="847" height="498" alt="image" src="https://github.com/user-attachments/assets/d8a2da97-deab-467f-93be-8143c43cb4bb" />
+<img width="1020" height="604" alt="image" src="https://github.com/user-attachments/assets/0a75048f-41f3-4198-9c43-d629d8781a77" />
+
 Baris 63-87 fungsi dimana kode utama akan dieksekusi. Selanjutnya menginisialisasi sistem hashtable dan menyimpannya di variabel hashmap.Lalu melakukan proses input nomor peserta dan skornya ke sistem berulang kali. Lalu mencetak teks pemisah dan menampilkan visualisasi keseluruhan tabel. Nah selanjutnya mendefinisikan variabel nomor peserta yang ingin dicoba dicari skornya. Lalu memanggil fungsi pencarian untuk mencari keberadaan nomor peserta 11. Selanjutnya jika ketemu (tidak None), cetak nilainya. Jika tidak, cetak teks "tidak ditemukan". Lalu memerintahkan sistem menghapus data nomor peserta 11. Dan terakhir mencetak ulang tabel sistem untuk membuktikan bahwa data tersebut telah sukses dihapus tanpa merusak susunan data lain.
 
 Terakhir memastikan agar fungsi main() dieksekusi hanya ketika file dijalankan langsung.
+
+## Output
+<img width="510" height="670" alt="Screenshot 2026-06-07 131308" src="https://github.com/user-attachments/assets/4ae66952-7dfc-4efc-88f4-3ecfe8c8a1c5" />
+Output dari semua logika yang ada. Awalnya, terlihat penumpukan data di laci nomor 1, sehingga data peserta 21, 11, dan 1 terpaksa mengantre saling bersambung membentuk list. Kemudian, program membuktikan bisa mencari dan memunculkan skor peserta nomor 11 dari dalam antrian tersebut. Terakhir, saat data peserta 11 dihapus, sistem menunjukkan bahwa datanya berhasil dicabut dari tengah antrian dengan aman, sehingga sisa datanya (peserta 21 dan 1) langsung menyambung kembali tanpa membuat listnya terputus.
